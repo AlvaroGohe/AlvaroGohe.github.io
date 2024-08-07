@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AlvaroGohe
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AlvaroGohe/Equations-of-the-Jacobian-of-a-genus-2-curve-in-characteristic-2
+  - AlvaroGohe/Continued-fractions-in-Mathematica
