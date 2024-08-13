@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About me
-permalink: /About me/
+permalink: /
 subtitle: PhD student in number theory and algebraic geometry at the <a href='https://warwick.ac.uk/fac/sci/maths/'>University of Warwick</a>.
 
 profile:
@@ -14,12 +14,12 @@ profile:
     <p>University of Warwick</p>
     <p>United Kingdom</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Hola! I am a fourth year PhD student in algebraic geometry and number theory under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'> Dr Damiano Testa </a>. Some of the topics that I am currently interested in are: generalised Kummer surfaces, K3 surfaces and their arithmetic and singularities in positive characteristic.
+Hola! I am a fourth year PhD student in algebraic geometry and number theory under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a>. Some of the topics that I am currently interested in are: generalised Kummer surfaces, K3 surfaces and their arithmetic and singularities in positive characteristic.
 
 My surname is Gonzalez Hernandez (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'> yes, both words are my surname!</a>) but I publish as Gonzalez-Hernandez for convenience.
 
