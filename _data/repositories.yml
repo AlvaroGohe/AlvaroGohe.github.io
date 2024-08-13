@@ -6,3 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - AlvaroGohe/Equations-of-the-Jacobian-of-a-genus-2-curve-in-characteristic-2
   - AlvaroGohe/Continued-fractions-in-Mathematica
+  - AlvaroGohe/Analisis-Matrimonios-del-Mismo-Sexo
+  - Macaulay2/Workshop-2023-Warwick

@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## These are some of my GitHub repositories
+### These are some of my GitHub repositories
 
 {% if site.data.repositories.github_repos %}
 
@@ -18,7 +18,7 @@ nav_order: 4
 </div>
 {% endif %}
 
-## And these are some of my GitHub stats
+### And these are some of my GitHub stats
 
 {% if site.data.repositories.github_users %}
 
