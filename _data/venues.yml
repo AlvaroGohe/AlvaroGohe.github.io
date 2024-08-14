@@ -1,3 +1,9 @@
 "arXiv":
   url: https://arxiv.org/list/math.AG/new
   color: "#9d0208"
+
+"MSc thesis":
+  color: "#002147"
+
+"BSc thesis":
+  color: "#9d0208"

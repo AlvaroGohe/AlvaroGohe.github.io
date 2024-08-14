@@ -1,42 +1,28 @@
 ---
 layout: page
-title: #
-description: K3 surfaces with everywhere good reduction. Young Researchers in Algebraic Number Theory (Y-RANT). University of Oxford,
-img: assets/img/12.jpg
+title: K3 surfaces with everywhere good reduction. 
+description: Young Researchers in Algebraic Number Theory (Y-RANT)
+img: assets/pdf imgs/K3 surfaces with everywhere good reduction (Oxford) (1).pdf
 importance: 1
 category: research
 related_publications: true
 ---
+I gave this talk the 
+<div class="embed-responsive embed-responsive-16by9">
+  <embed src="assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+</div>
 
-<style>
-    .pdf {
-        width: 100%;
-        aspect-ratio: 4 / 3;
-    }
-    .pdf,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-   h1,
-    h3 {
-        text-align: center;
-    }
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" width="100%" height="600px" style="border:none;"></iframe>
+</div>
 
-    h1 {
-        color: green;
-    }
-</style>
+<div class="container mt-5">
+    <div class="embed-responsive embed-responsive-16by9">
+        <embed src="assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+    </div>
+</div>
 
-<body>
-        <iframe class="pdf" 
-                src= "assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf"
-            width="800" height="500">
-        </iframe>
-</body>
-
+This talk is based on the work 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
