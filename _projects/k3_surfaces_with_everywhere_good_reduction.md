@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: K3 surfaces with everywhere good reduction 
 description: Young Researchers in Algebraic Number Theory
 img: assets/img/K3 surfaces with everywhere good reduction (Oxford).png
@@ -16,7 +16,7 @@ This talk is based on the last section of my paper **Explicit desingularisation 
 <div style="padding-bottom: 100px;">
 <div class="container mt-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <embed src="../assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="/assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
 </div>
 </div>
