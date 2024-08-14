@@ -17,6 +17,8 @@ I try to keep updated all the coding that I do in my GitHub.
   {% endfor %}
 </div>
 
+<br>
+<br>
 These are some of my repositories:
 
 {% if site.data.repositories.github_repos %}
