@@ -12,7 +12,7 @@ I gave this talk in the conference <a href="https://y-rant.github.io/">Young Res
 
 <div class="container mt-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <embed src="assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="pdf_talks/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
 </div>
 
