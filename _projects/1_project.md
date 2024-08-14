@@ -1,14 +1,43 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: #
+description: K3 surfaces with everywhere good reduction. Young Researchers in Algebraic Number Theory (Y-RANT). University of Oxford,
 img: assets/img/12.jpg
 importance: 1
 category: research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
+<style>
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+    .pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+   h1,
+    h3 {
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+    }
+</style>
+
+<body>
+        <iframe class="pdf" 
+                src= "assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf"
+            width="800" height="500">
+        </iframe>
+</body>
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -79,3 +108,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->

@@ -2,11 +2,12 @@
 layout: page
 permalink: /Research/
 title: Research
-description: These are some of my publications
+description: 
 nav: true
 nav_order: 2
 ---
 
+These are some of the projects I have written.
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
