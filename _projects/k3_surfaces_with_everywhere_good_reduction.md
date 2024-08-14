@@ -13,10 +13,10 @@ I gave this talk in the conference <a href="https://y-rant.github.io/">Young Res
 
 This talk is based on the last section of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
-<div style="padding-bottom: 50px;">
+<div style="padding-bottom: 100px;">
 <div class="container mt-5">
     <div class="embed-responsive embed-responsive-16by9">
-        <embed src="./assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="../assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
 </div>
 </div>
