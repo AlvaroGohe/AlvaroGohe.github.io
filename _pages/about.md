@@ -23,9 +23,9 @@ Hola! I am a fourth year PhD student in algebraic geometry and number theory und
 
 I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain).
 
-My surname is Gonzalez Hernandez (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'> yes, both words are my surname!</a>) but I publish as Gonzalez-Hernandez for convenience.
+My surname is Gonzalez Hernandez (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as Gonzalez-Hernandez for convenience.
 
-Outside of mathematics, I enjoy graphic design and martial arts (I am actually a black belt in judo!).
+Outside of mathematics, I enjoy graphic design and martial arts.
 
 This website is still in preparation (I am not Einstein, I swear).
 
