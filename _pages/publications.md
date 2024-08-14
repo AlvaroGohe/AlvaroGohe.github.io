@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Research/
+permalink: /research/
 title: Research
 description: 
 nav: true
