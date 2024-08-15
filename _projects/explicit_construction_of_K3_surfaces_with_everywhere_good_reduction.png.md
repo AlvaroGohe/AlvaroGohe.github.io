@@ -3,7 +3,7 @@ layout: page
 title: Explicit construction of K3 surfaces with everywhere good reduction
 description: Oberseminar on Arithmetische Geometrie
 img: assets/img/Explicit_construction_of_K3_surfaces_with_ everywhere_good_reduction.png
-importance: -1
+importance: 2
 date: 2024-06-18 21:01:00
 category: research
 related_publications: true
