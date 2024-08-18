@@ -2,7 +2,7 @@
 layout: page
 title: Local normal forms of non-commutative potentials
 description: RGAS School on Singularities
-img: assets/pdf/local_normal_forms_of_non-commutative_potentials.png
+img: assets/img/Local_normal_forms_of_non-commutative_potentials.png
 importance: 7
 date: 2024-01-11 15:01:00
 category: research
