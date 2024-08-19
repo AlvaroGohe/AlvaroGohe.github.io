@@ -15,7 +15,7 @@ I have given this talk twice:
 <li>In the conference <a href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, which took place at the University of Oxford on the 31st of July of 2024.</li>
 </ul>
 
-This talk is based on the first half of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
+This talk is based on the last section of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
 <div style="padding-bottom: 100px;">
 <div class="container mt-5">

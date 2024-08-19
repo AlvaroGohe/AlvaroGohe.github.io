@@ -2,7 +2,7 @@
 layout: page
 title: An introduction to the Hasse principle through examples
 description: Warwick's Postgraduate Seminar
-img: assets/img/An introduction to the Hasse principle.png
+img: assets/img/An_introduction_to_the_Hasse_principle_through_examples.png
 importance: 14
 date: 2022-01-19 18:01:00
 category: research

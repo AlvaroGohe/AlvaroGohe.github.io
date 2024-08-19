@@ -2,7 +2,7 @@
 layout: page
 title: Masses of central leaves and automorphisms of abelian varieties 
 description: Arizona Winter School
-img: assets/img/Unofficial_title_card.png
+img: assets/img/Masses_of_central_leaves_and-automorphisms_of_abelian_varieties.png
 importance: 4
 date: 2024-03-06 11:01:00
 category: research

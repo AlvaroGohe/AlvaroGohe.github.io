@@ -15,7 +15,7 @@ I have given this talk twice:
 <li>When I was invited to give a talk in the <a href="https://www.bristolmathsresearch.org/events/linfoot-number-theory/">Linfoot Number Theory</a> of the University of Bristol on the 4th of October of 2024.</li>
 </ul>
 
-This talk is based on the last section of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
+This talk is based on the first half of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
 <div style="padding-bottom: 100px;">
 <div class="container mt-5">

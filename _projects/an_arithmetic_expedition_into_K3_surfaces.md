@@ -2,7 +2,7 @@
 layout: page
 title: An arithmetic expedition into K3 surfaces
 description: Warwick Junior Number Theory Seminar
-img: assets/img/Unofficial_title_card.png
+img: assets/img/An_arithmetic_expedition_into_K3_surfaces.png
 importance: 12
 date: 2023-06-12 13:01:00
 category: research

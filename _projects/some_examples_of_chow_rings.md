@@ -10,7 +10,7 @@ category: study groups
 
 I gave this talk on the 21st of May of 2024 for the study group on intersection theory organised by <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/faustini">Tommaso Faustini</a>.
 
-The goal of the study group and, more specifically, this talk, was to understand the theory of Chow rings and how to use it to solve enumerative problems in geometry. These are some notes I wrote for my talk:
+The goal of the study group and, more specifically this talk, was to understand the theory of Chow rings and how to use it to solve enumerative problems in geometry. These are some notes I wrote for my talk:
 
 <div style="padding-bottom: 100px;">
 <div class="container mt-5">

@@ -2,7 +2,7 @@
 layout: page
 title: A game-based learning intervention for support classes in mathematics
 description: Warwick Education Conference 2023
-img: assets/img/Game-based_learning_intervention.png
+img: assets/img/A_game-based_learning_intervention_for_support_classes_in_Mathematics.png
 importance: 11
 date: 2023-06-19 15:01:00
 category: research

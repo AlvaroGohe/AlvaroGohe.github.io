@@ -15,7 +15,7 @@ In May 2023, I decided to give three talks in Warwick about the theory of curves
 
 <li>In the second talk, I explained the theory of rational double points in surfaces and how these can be studied from different points of view: topological, analytical, in terms of their resolution, and as quotients of the affine plane by the action of finite groups.</li>
 
-<li>In the third talk I explaind Artin's paper on the classification of rational double points in characteristic $$p>0$$ and how in this setting the quotients by finite groups can be replaced by suitable quotients by the group schemes $$\mu_p$$ or $$\alpha_p$$.</li>
+<li>In the third talk I explain Artin's paper on the classification of rational double points in positive characteristic and how in this setting the quotients by finite groups can be replaced by suitable quotients by a group scheme.</li>
 </ul>
 
 
