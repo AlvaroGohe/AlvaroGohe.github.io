@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curves, surfaces and singularities in characteristic p
+title: Curves, surfaces and singularities in characteristic $$p$$
 description: Series of talks
 img: assets/img/Curves,_surfaces_and_singularities_in_characteristic_p.png
 importance: 18
@@ -15,7 +15,7 @@ In May 2023, I decided to give three talks in Warwick about the theory of curves
 
 <li>In the second talk, I explained the theory of rational double points in surfaces and how these can be studied from different points of view: topological, analytical, in terms of their resolution, and as quotients of the affine plane by the action of finite groups.</li>
 
-<li>In the third talk I explain Artin's paper on the classification of rational double points in positive characteristic and how in this setting the quotients by finite groups can be replaced by suitable quotients by a group scheme.</li>
+<li>In the third talk, I explained Artin's paper on the classification of rational double points in positive characteristic and how in this setting the quotients by finite groups can be replaced by suitable quotients by a group scheme.</li>
 </ul>
 
 
