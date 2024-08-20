@@ -22,7 +22,13 @@
             maxZoom: 19,
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
           }).addTo(map);
-          let geoJSON = L.geoJSON(JSON.parse(jsonData)).addTo(map);
+          function onEachFeature(feature, layer) {
+           /*does this feature have a property named popupContent?*/
+           if (feature.properties && feature.properties.popupContent) {
+          layer.bindPopup(feature.properties.popupContent);
+          }
+          }
+          let geoJSON = L.geoJSON(JSON.parse(jsonData),{onEachFeature: onEachFeature}).addTo(map);
           map.fitBounds(geoJSON.getBounds());
         });
       }
