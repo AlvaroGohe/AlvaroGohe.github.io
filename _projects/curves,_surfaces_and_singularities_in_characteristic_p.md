@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curves, surfaces and singularities in characteristic $$p$$
+title: Curves, surfaces and singularities in positive characteristic 
 description: Series of talks
 img: assets/img/Curves,_surfaces_and_singularities_in_characteristic_p.png
 importance: 18
