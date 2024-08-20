@@ -3,13 +3,13 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-nav: false
+nav: true
 nav_order: 6
 ---
 
-These are the courses I have taught in Warwick so far. I believe that support classes should be interactive and for that reason, I usually like to start my lessons by quizzing my students using the platform Kahoot!
+These are the courses I have taught in Warwick so far.
 
-I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>.
+I believe that support classes should be interactive and for that reason, I usually like to start my lessons by quizzing my students using the platform Kahoot! I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>, so have a look if you are interested.
 
 **2023 - 2024**
 <ul>
