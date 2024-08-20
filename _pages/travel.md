@@ -5,6 +5,7 @@ title: Travel
 description: 
 nav: false
 nav_order: 6
+map: true
 ---
 
 I have been lucky to had the opportunity to attend conferences in so many amazing places:
