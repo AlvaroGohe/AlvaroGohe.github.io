@@ -14,10 +14,6 @@ The goal of the study group was to construct and prove the main properties of ab
 
 These are the notes I wrote for my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/rigidity_and_the_construction_of_the_dual_abelian_variety.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1T0wN6OpYql1Vl7Eo0dLMR3kFTqRwfQLV/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

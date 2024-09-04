@@ -18,7 +18,7 @@ I have given this talk twice:
 This talk is based on the last section of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
 
-<div style="padding-bottom: 100px; padding-top: 100px;">
+<div style="padding-bottom: 100px; padding-top: 50px;">
 <iframe src="https://drive.google.com/file/d/1aQtyz83iUDTSdicnDYxR1r2Wqg1uus57/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>
 

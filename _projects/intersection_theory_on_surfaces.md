@@ -14,10 +14,6 @@ The goal of the study group was to study the proofs of the Weil conjectures for 
 
 These are the slides of my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/intersection_theory_on_surfaces.pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1pqlmoOQ3ry2xcuKLe1Ny0FbFAGPZ34Ke/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

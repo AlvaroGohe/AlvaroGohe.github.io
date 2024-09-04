@@ -15,10 +15,6 @@ In this project, we studied the possible automorphism groups of a supersingular 
 
 These are the hand-written slides that we used for our presentation:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/masses_of_central_leaves_and_automorphism_groups_of_abelian_varieties.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/12goliY4PVCNx7C5PN3lyBmOgXD9Q_W4A/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

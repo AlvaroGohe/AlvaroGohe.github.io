@@ -14,10 +14,6 @@ The goal of this study group was to learn the foundations of isogeny-based crypt
 
 These are the slides for my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/hyperelliptic_curves_and_their_jacobians.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1c34EFbeObeRccWVWRJCbaPUw0-nHTE0I/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

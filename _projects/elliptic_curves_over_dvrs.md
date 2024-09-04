@@ -14,10 +14,6 @@ The goal of the study group was to understand Mazur's famous theorem on the clas
 
 These are the slides of my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/elliptic_curves_over_discrete_valuation_rings.pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1plTPq64cjVjHjiCgePt-E6wQYSa1j92x/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

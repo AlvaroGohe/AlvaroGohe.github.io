@@ -13,10 +13,6 @@ I gave this talk when I was an invited speaker in the <a href="https://warwick.a
 
 This talk is based on my master's dissertation **Local fields and the Hasse principle** {% cite Mastersthesis %}.
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/an_introduction_to_the_hasse_principle_through_examples.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1GEaqXvN0toRclWCbktN0ZHMrUu_BLdPp/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

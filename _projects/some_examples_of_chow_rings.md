@@ -12,10 +12,6 @@ I gave this talk on the 21st of May of 2024 for the study group on intersection 
 
 The goal of the study group and, more specifically this talk, was to understand the theory of Chow rings and how to use it to solve enumerative problems in geometry. These are some notes I wrote for my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/some_examples_of_chow_rings_and_applications_to_intersection_theory.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1psrIkwWGOgegYw2TmXpj0LO0VpPY02G7/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

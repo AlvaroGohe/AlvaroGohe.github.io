@@ -22,10 +22,6 @@ In May 2023, I decided to give three talks in Warwick about the theory of curves
 These are some handwritten notes that I used as guide for the first of the talks:
 
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/curves_surfaces_and_singularities_in_characteristic_p.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1d_JHWbtdJm8_heQpehHAWLuyfwP13VFV/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

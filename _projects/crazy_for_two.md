@@ -13,10 +13,6 @@ I gave this talk in the conference <a href="https://y-rant.github.io/">Young Res
 
 This talk is based on the first half of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/crazy_for_2_genus_2_curves_in_characteristic_2_via_kummer_surfaces.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1DcBNhtMIto4jWDk10dHM1IHN6CZfBQ_F/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

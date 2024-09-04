@@ -17,12 +17,9 @@ I have given this talk twice:
 
 This talk is based on the first half of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/explicit_theory_of_kummer_surfaces_in_characteristic_two_hodge_club.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1Je0e63AW_YWL98wJs63ZV5tXhqkRLEXv/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>
-</div>
+
 
 

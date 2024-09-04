@@ -12,10 +12,6 @@ I gave this talk on the 27th of October of 2023 for the <a href="https://warwick
 
 The goal of the study group was to understand the foundations of the arithmetic theory of moduli spaces of elliptic curves. In my talk, I explained the theory of Cartier divisors and how they can be used to define $$\Gamma(n), \Gamma_1(n)$$ and $$\Gamma_0(n)$$-structures on elliptic curves defined over a scheme. These are the notes I wrote for my talk:
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/gamma_structures.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1TfJy9hf_uTYEnYz8HnaD7F14J8y8mk8J/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>

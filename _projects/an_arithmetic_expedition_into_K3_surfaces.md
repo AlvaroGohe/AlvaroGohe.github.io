@@ -13,10 +13,6 @@ I gave this talk I was invited to speak in the <a href="https://warwick.ac.uk/fa
 
 These are some hand-written notes on the material I covered in this talk.
 
-<div style="padding-bottom: 100px;">
-<div class="container mt-5">
-    <div class="embed-responsive embed-responsive-16by9">
-        <embed src="/assets/pdf/an_arithmetic_expedition_into_k3_surfaces.pdf" type="application/pdf" width="100%" height="600px" />
-    </div>
-</div>
+<div style="padding-bottom: 100px; padding-top: 50px;">
+<iframe src="https://drive.google.com/file/d/1q-YK0S4mkTUiH1x0VYbg6GvtIw7aGCYT/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>
