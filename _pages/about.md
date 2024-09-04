@@ -11,6 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: 
     <p> This is me!</p>
+    <p> My pronouns are he/him</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,5 +24,5 @@ I studied the MSc in Mathematical Sciences at the University of Oxford and the B
 
 My surname is Gonzalez Hernandez (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as Gonzalez-Hernandez for convenience.
 
-Outside of mathematics, I enjoy graphic design, watching cinema (Pedro Almodovar is my favourite director) and doing martial arts (mostly judo and jiu jitsu).
+Outside of mathematics, I enjoy graphic design, watching cinema (<a href='https://www.theguardian.com/film/2022/jan/22/pedro-almodovar-on-spains-tragic-past-you-cant-ask-people-to-forget'>Pedro Almodovar</a> is my favourite director) and doing martial arts (mostly judo and jiu jitsu).
 
