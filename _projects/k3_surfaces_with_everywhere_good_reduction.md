@@ -18,9 +18,23 @@ I have given this talk twice:
 This talk is based on the last section of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
 <div style="padding-bottom: 100px;">
+<iframe src="https://drive.google.com/file/d/1aQtyz83iUDTSdicnDYxR1r2Wqg1uus57/preview" width="100%" height="600px" allow="autoplay"></iframe>
+</div>
+
+<div style="padding-bottom: 100px;">
 <div class="container mt-5">
     <div class="embed-responsive embed-responsive-16by9">
         <embed src="/assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
 </div>
 </div>
+
+<div style="padding-bottom: 100px;">
+<div class="container mt-5">
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="/assets/pdf/k3_surfaces_with_everywhere_good_reduction.pdf" type="application/pdf" width="100%" height="600px" />
+    </div>
+</div>
+</div>
+
+
