@@ -24,7 +24,7 @@ I am in the job market, looking for positions starting in 2025.
 
 I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain). I also spent a year at the University of Edinburgh as an exchange student during my undergraduate degree.
 
-My surname is Gonzalez Hernandez (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as Gonzalez-Hernandez for convenience.
+My surname is **Gonzalez Hernandez** (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as **Gonzalez-Hernandez** for convenience.
 
 Outside of mathematics, I enjoy graphic design, watching cinema (<a href='https://www.theguardian.com/film/2022/jan/22/pedro-almodovar-on-spains-tragic-past-you-cant-ask-people-to-forget'>Pedro Almodóvar</a> is my favourite director) and doing martial arts (mostly judo and jiu jitsu).
 
