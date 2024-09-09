@@ -16,7 +16,7 @@ Here is an overview of the teaching roles I have had at Warwick
 <li> Teaching assistant for <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma397/">MA397 - Consolidation</a>.</li>
 <li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma266/">MA266 - Multilinear algebra</a> exam.</li>
 <li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma270/">MA270 - Analysis III</a> exam.</li>
-<li> Marker of three students of the course <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma469/">MA4K8 ' Maths in Action</a>.</li>
+<li> Marker of three students of the course <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma469/">MA4K8 - Maths in Action</a>.</li>
 </ul>
 
 **2022 - 2023**
@@ -33,8 +33,8 @@ Here is an overview of the teaching roles I have had at Warwick
 <li> Teaching assistant for <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma2k3/">MA2K3 - Consolidation</a>.</li>
 <li> Teaching assistant for <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma3d5/">MA3D5 - Galois Theory</a> (<a href="https://create.kahoot.it/course/e8492261-8fbc-464d-ba6c-fe1876701ace">kahoots</a>).</li>
 <li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of one group of first-year undergraduate Mathematics students.</li>
-<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year1/ma131">MA131 Analysis</a> exam.</li>
-<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year1/ma134/">MA134 Geometry and Motion</a> exam.</li>
+<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year1/ma131">MA131 - Analysis</a> exam.</li>
+<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year1/ma134/">MA134 - Geometry and Motion</a> exam.</li>
 <li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma3d5/">MA3D5 - Galois Theory</a> exam.</li>
 </ul>
 
