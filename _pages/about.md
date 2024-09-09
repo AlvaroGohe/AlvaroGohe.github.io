@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<meta google-site-verification=Drv9VlgLtwHUs1lwpjfMLYrq60TahBaTiMjalRV9r8s>
 
 Hola! I am a fourth year PhD student in algebraic geometry and number theory under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a> at the <a href='https://warwick.ac.uk/fac/sci/maths/'>University of Warwick</a>. Some of the topics that I am interested in are:  K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties.
 
