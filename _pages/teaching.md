@@ -11,10 +11,15 @@ I believe that support classes should be interactive and for that reason, I usua
 
 Here is an overview of the teaching roles I have had at Warwick
 
+**2024 - 2025**
+<ul>
+<li> Teaching assistant for <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma397/">MA397 - Consolidation</a>.</li>
+</ul>
+
 **2023 - 2024**
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma397/">MA397 - Consolidation</a>.</li>
-<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma266/">MA266 - Multilinear algebra</a> exam.</li>
+<li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma266/">MA266 - Multilinear Algebra</a> exam.</li>
 <li> Marker of the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma270/">MA270 - Analysis III</a> exam.</li>
 <li> Marker of three students of the course <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year4/ma469/">MA4K8 - Maths in Action</a>.</li>
 </ul>

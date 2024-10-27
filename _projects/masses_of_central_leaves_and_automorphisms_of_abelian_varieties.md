@@ -9,7 +9,7 @@ category: research
 ---
 
 
-This is a short talk that <a href="https://enricflorit.com/">Enric Florit</a>, <a href="https://research-information.bris.ac.uk/en/persons/eda-kirimli">Eda Kırımlı</a> and I gave in the <a href="https://swc-math.github.io/aws/2024/index.html">Arizona Winter School</a>, regarding the project we worked on under the supervision of <a href="https://webspace.science.uu.nl/~karem001/index.html">Valentijn Karemaker</a> and <a href="https://sites.google.com/site/soumya3sankar">Soumya Sankar</a>. 
+This is a short talk that <a href="https://enricflorit.com/">Enric Florit</a>, <a href="https://research-information.bris.ac.uk/en/persons/eda-kirimli">Eda Kırımlı</a> and I gave in the <a href="https://swc-math.github.io/aws/2024/index.html">Arizona Winter School</a> the 6th of March of 2024, regarding the project we worked on under the supervision of <a href="https://webspace.science.uu.nl/~karem001/index.html">Valentijn Karemaker</a> and <a href="https://sites.google.com/site/soumya3sankar">Soumya Sankar</a>. 
 
 In this project, we studied the possible automorphism groups of a supersingular abelian variety of genus $$g$$. In order to do so, we tried to find a mass formula for the central leaf associated to the supersingular locus of the moduli space $$\mathcal{A}_g$$ of abelian varieties of genus $$g$$. 
 

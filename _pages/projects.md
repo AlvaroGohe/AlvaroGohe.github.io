@@ -5,9 +5,11 @@ permalink: /talks/
 description: #
 nav: true
 nav_order: 3
-display_categories: [research, study groups]
+display_categories: [research, study groups, outreach]
 horizontal: false
 ---
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
