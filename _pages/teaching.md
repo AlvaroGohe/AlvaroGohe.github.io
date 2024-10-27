@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -12,11 +12,13 @@ I believe that support classes should be interactive and for that reason, I usua
 Here is an overview of the teaching roles I have had at Warwick
 
 **2024 - 2025**
+
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
 </ul>
 
 **2023 - 2024**
+
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
 <li> Marker of the <a style="font-weight:bold">MA266 - Multilinear Algebra</a> exam.</li>
@@ -25,6 +27,7 @@ Here is an overview of the teaching roles I have had at Warwick
 </ul>
 
 **2022 - 2023**
+
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold" >MA243 - Geometry</a>.</li>
 <li> Teaching assistant for <a style="font-weight:bold" >MA249 - Algebra III: Groups and Rings</a>.</li>
@@ -34,6 +37,7 @@ Here is an overview of the teaching roles I have had at Warwick
 </ul>
 
 **2021 - 2022**
+
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold">MA2K3 - Consolidation</a>.</li>
 <li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a> (<a href="https://create.kahoot.it/course/e8492261-8fbc-464d-ba6c-fe1876701ace">kahoots</a>).</li>

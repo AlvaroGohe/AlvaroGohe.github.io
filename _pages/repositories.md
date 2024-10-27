@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I try to keep updated all the coding that I do in my GitHub. 
+I try to keep updated all the coding that I do in my GitHub.
 
 {% if site.data.repositories.github_users %}
 

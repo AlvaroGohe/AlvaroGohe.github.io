@@ -8,7 +8,7 @@ date: 2024-01-11 15:01:00
 category: research
 ---
 
-I gave this contributed talk in the  <a href="https://sites.google.com/view/sevillargas">RGAS School on Singularities</a> in the <a href="https://www.imus.us.es/www/">Instituto de Matemáticas de la Universidad de Sevilla</a> on the 11th of January of 2024.
+I gave this contributed talk in the <a href="https://sites.google.com/view/sevillargas">RGAS School on Singularities</a> in the <a href="https://www.imus.us.es/www/">Instituto de Matemáticas de la Universidad de Sevilla</a> on the 11th of January of 2024.
 
 This talk is based on a project I am working in, which consists in computing <a href="https://arxiv.org/abs/2111.05900">local normal forms of non-commutative functions</a> over a field of positive characteristic, in order to deduce information about flops and flopping divisorial contractions on 3-folds.
 
