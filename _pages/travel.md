@@ -34,7 +34,7 @@ Let's try a second map:
 <li><a style="font-weight:bold" href="https://www.ukagnetwork.org/past-activities/durham-september-2024">Conference of the UK Algebraic Geometry Network</a>, University of Durham, 11th - 12th September.</li>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/danger4workshop">Data, Numbers, and Geometry (DANGER 4)</a>, London Institute of Mathematical Sciences (LIMS), 8th - 9th of August.</li>
 <li><a style="font-weight:bold" href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Oxford, 31st of July - 2nd of August.</li>
-<li><a style="font-weight:bold">Décimas Jornadas de Teoría de Números</a>, Centro Cultural La Corrala, 8th - 12th of July.</li>
+<li><a style="font-weight:bold" href="https://www.icmat.es/es/actualidad/09-07-24-2/">Décimas Jornadas de Teoría de Números</a>, Centro Cultural La Corrala, 8th - 12th of July.</li>
 <li><a style="font-weight:bold" href="http://emiliano.ambrosi.perso.math.cnrs.fr/CAVARETpage/Cavaretmain.html">Curves, Abelian VArieties and RElated Topics (CAVARET)</a>, Universitat de Barcelona, 17th - 21st of June.</li>
 <li><a style="font-weight:bold" href="https://swc-math.github.io/aws/2024/index.html">Arizona Winter School</a>, University of Arizona, 2nd - 6th March.</li>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/sevillargas/rgas-sevilla">RGAS School of Singularities</a>, Universidad de Sevilla, 8th - 12th of January.</li>
@@ -60,7 +60,7 @@ Let's try a second map:
 
 <ul>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/computationalgeometry22/home">Computational Geometry</a>, University of Nottingham, 29th of August - 2nd of September.</li>
-<li><a style="font-weight:bold">Mordell 2022</a>, University of Cambridge, 15th - 19th of August.</li>
+<li><a style="font-weight:bold" href="https://www.dpmms.cam.ac.uk/~jat58/mordell/">Mordell 2022</a>, University of Cambridge, 15th - 19th of August.</li>
 <li><a style="font-weight:bold" href="https://enem.anem.es/2022/">XXIII Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universitat de València, 25th - 30th of July.</li>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/m3midlands">Mirrors, Moduli and M-theory in the Midlands</a>, University of Birmingham, 4th - 7th of April.</li>
 </ul>

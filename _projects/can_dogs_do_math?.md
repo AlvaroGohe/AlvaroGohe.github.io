@@ -10,4 +10,6 @@ category: outreach
 
 As an intern working for Dr. Tom Crawford, I made a video for his channel <a href="https://www.youtube.com/@TomRocksMaths">Tom Rocks Maths</a> explaining the maths behind involute curves.
 
+<div style="padding-bottom: 100px; padding-top: 50px;">
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/0ZXf_0qCHj0?si=hMyLF4Ax968OHgsd" title="Can dogs do maths?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
