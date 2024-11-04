@@ -60,7 +60,7 @@ Let's try a second map:
 
 <ul>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/computationalgeometry22/home">Computational Geometry</a>, University of Nottingham, 29th of August - 2nd of September.</li>
-<li><a style="font-weight:bold" href="https://www.dpmms.cam.ac.uk/~jat58/mordell/">Mordell 2022</a>, University of Cambridge, 15th - 19th of August.</li>
+<li><a style="font-weight:bold" href="https://talks.cam.ac.uk/talk/index/174734">Mordell 2022</a>, University of Cambridge, 15th - 19th of August.</li>
 <li><a style="font-weight:bold" href="https://enem.anem.es/2022/">XXIII Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universitat de València, 25th - 30th of July.</li>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/m3midlands">Mirrors, Moduli and M-theory in the Midlands</a>, University of Birmingham, 4th - 7th of April.</li>
 </ul>

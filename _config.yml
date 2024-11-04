@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Alvaro
-middle_name: 
+middle_name:
 last_name: Gonzalez Hernandez
 email: alvaro.gonzalez-hernandez@warwick.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,7 +17,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: Kummer_Logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://AlvaroGohe.github.io # the base hostname & protocol for your site
-baseurl: 
+baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-   If there is anything that I can help you with, you are more than welcome to send me an email :)
+  If there is anything that I can help you with, you are more than welcome to send me an email :)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: 
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -167,12 +167,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
- # - name: medium.com
- #   rss_url: https://medium.com/@al-folio/feed
- # - name: Google Blog
- #   posts:
- #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
- #       published_date: 2024-05-14
+# - name: medium.com
+#   rss_url: https://medium.com/@al-folio/feed
+# - name: Google Blog
+#   posts:
+#     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -420,7 +420,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true  # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_google_verification: true # enables google site verification
