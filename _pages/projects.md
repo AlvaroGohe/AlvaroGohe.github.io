@@ -9,6 +9,10 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
+My next talk will be at the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>. It is going to be titled <a style="font-weight:bold" href="https://jovenes2025.rsme.es/paralelaAL03.html">Intersections of the automorphism and $$p$$-rank strata in the moduli space of genus two curves</a>.
+
+These are some of my past talks:
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -63,3 +67,5 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+
