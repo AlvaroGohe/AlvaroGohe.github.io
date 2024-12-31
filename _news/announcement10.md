@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Merry Christmas! :christmas_tree:
+title : Merry Christmas!
 date: 2024-12-25 16:11:00-0400
 inline: false # Change by false if you want a longer text
 related_posts: false
