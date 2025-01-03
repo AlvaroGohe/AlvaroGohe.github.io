@@ -3,7 +3,6 @@ layout: post
 title : Some pictures of me giving talks
 date: 2024-12-28 16:11:00-0400
 tags: pictures
-related_posts: false
 images:
   compare: true
   slider: true

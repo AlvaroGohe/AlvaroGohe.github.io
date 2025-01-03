@@ -30,6 +30,16 @@ These are some of my repositories:
 </div>
 {% endif %}
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Website_developer.jpg" title="Me developing a website" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    I also made this website (with <a href="https://github.com/alshedivat/al-folio/tree/main">a lot of help</a>)!
+</div>
+
+
 <!--
 ### And these are some of my GitHub stats
 
