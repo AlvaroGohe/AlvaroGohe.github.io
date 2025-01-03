@@ -11,7 +11,7 @@ horizontal: false
 
 My next talk will be at the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>. It is titled <a style="font-weight:bold" href="https://jovenes2025.rsme.es/paralelaAL03.html">Intersections of the automorphism and $$p$$-rank strata in the moduli space of genus two curves</a>.
 
-These are some of my past talks:
+These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -68,6 +68,6 @@ These are some of my past talks:
 {% endif %}
 </div>
 
-And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
+
 
 
