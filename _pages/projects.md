@@ -68,4 +68,6 @@ These are some of my past talks:
 {% endif %}
 </div>
 
+And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
+
 

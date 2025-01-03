@@ -8,8 +8,9 @@ images:
   slider: true
 ---
 
-In case you need proof that I am a real person :satisfied:
+In case you need more proof that I am a real person :satisfied:
 
+<div style="padding-bottom: 100px; padding-top: 100px;">
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/YRANT_talk_1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/YRANT_talk_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -18,3 +19,4 @@ In case you need proof that I am a real person :satisfied:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Hodge_Club_Talk.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Warwick_Postgraduate_Seminar_Talk.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+</div>

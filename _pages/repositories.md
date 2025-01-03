@@ -32,7 +32,7 @@ These are some of my repositories:
 
 <div style="padding-bottom: 100px; padding-top: 100px;">
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/Website_developer.jpg" title="Me developing a website" class="img-fluid rounded z-depth-1" width="80%" %}
     </div>
 </div>
