@@ -9,7 +9,7 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-My next talk will be at the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>. It is titled <a style="font-weight:bold" href="https://jovenes2025.rsme.es/paralelaAL03.html">Intersections of the automorphism and $$p$$-rank strata in the moduli space of genus two curves</a>.
+My next talk will likely be on the study group of K-stability that is being organised by Marc Truter. I will also be giving a talk in the <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/"> Junior Number Theory seminar</a> of the University of Warwick on the 10th of March.
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 

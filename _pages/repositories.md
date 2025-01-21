@@ -37,7 +37,7 @@ These are some of my repositories:
     </div>
 </div>
 <div class="caption">
-    I also made this website (with <a href="https://github.com/alshedivat/al-folio/tree/main">a lot of help</a>)!
+    I also made this website (with <a href="https://github.com/alshedivat/al-folio/tree/main">some help</a>)!
 </div>
 </div>
 
