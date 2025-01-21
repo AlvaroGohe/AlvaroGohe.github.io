@@ -1,12 +1,11 @@
 ---
 layout: post
 title : I travelled to Bilbao to attend the VII Congreso de Jóvenes Investigadores de la RSME
-date: 2025-01-23 16:11:00-0400
+date: 2025-01-13 16:11:00-0400
 inline: false # Change by false if you want a longer text
 related_posts: false
 ---
 
-<!--
 I was fortunate to be able to organise the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, which took place in Bilbao from the 13th to the 17th of January. 
 
 Together with <a href="https://www.data-science.ie/user/beatriz+barbero+lucas/">Beatriz Barbero Lucas</a>, <a href="https://danielgilmu.wixsite.com/mathematician">Daniel Gil Muñoz</a> and Javier Guillán Rial, we had the chance to gather an amazing selection of speakers representing many different topics in number theory.
@@ -24,6 +23,3 @@ I had an amazing time in Bilbao, as we were offered multiple opportunities to at
 <iframe src="https://embed.kahoot.it/6151a64e-440f-43be-8533-a5245f3ecf6e" width="100%" height="600px"></iframe>
 
 I also had the opportunity to give a talk about my outcoming work about the intersection of the Ekedahl-Oort and automorphism strata inside of the moduli space of genus 2 curves.
-
--->
-hello
