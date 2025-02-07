@@ -27,4 +27,3 @@ This talk is based on the last section of my paper **Explicit desingularisation 
         </iframe>
     </div>
 </div>
-

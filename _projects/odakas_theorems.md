@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Odaka\'s theorems
+title: Two theorems of Odaka
 description: Study group on K-stability
 img: assets/img/Odaka's_theorems.png
 importance: 13

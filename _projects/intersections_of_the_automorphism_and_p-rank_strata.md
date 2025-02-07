@@ -20,7 +20,3 @@ I gave this talk at the Number Theory parallel session of the <a style="font-wei
     </iframe>
     </div>
 </div>
-
-
-
-

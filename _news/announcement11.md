@@ -1,12 +1,12 @@
 ---
 layout: post
-title : I travelled to Bilbao to attend the VII Congreso de Jóvenes Investigadores de la RSME.
+title: I travelled to Bilbao to attend the VII Congreso de Jóvenes Investigadores de la RSME.
 date: 2025-01-17 16:11:00-0400
 inline: false # Change by false if you want a longer text
 related_posts: false
 ---
 
-I was fortunate to be able to organise the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, which took place in Bilbao from the 13th to the 17th of January. 
+I was fortunate to be able to organise the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, which took place in Bilbao from the 13th to the 17th of January.
 
 Together with <a href="https://www.data-science.ie/user/beatriz+barbero+lucas/">Beatriz Barbero Lucas</a>, <a href="https://danielgilmu.wixsite.com/mathematician">Daniel Gil Muñoz</a> and Javier Guillán Rial, we had the chance to gather an amazing selection of speakers representing many different topics in number theory.
 
