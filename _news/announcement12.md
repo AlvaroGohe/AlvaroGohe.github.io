@@ -5,4 +5,4 @@ inline: true # Change by false if you want a longer text
 related_posts: false
 ---
 
-I gave a talk about <a  href="https://alvarogohe.github.io/projects/odakas_theorems/">Odaka\'s theorems</a> in the study group on K-stability.
+I gave a talk about <a  href="https://alvarogohe.github.io/projects/odakas_theorems/">two theorems of Odaka</a> in the study group on K-stability.
