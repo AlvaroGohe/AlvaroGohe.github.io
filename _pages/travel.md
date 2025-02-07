@@ -21,10 +21,10 @@ Let's try a second map:
 **These are the conferences I am planning to attend next:**
 -->
 
-
 **Past conferences:**
 
 **2025**
+
 <ul>
 <li><a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Euskal Herriko Unibertsitatea, 13th - 17th of January, 2025.</li>
 </ul>

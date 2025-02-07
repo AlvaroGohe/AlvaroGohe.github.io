@@ -41,13 +41,8 @@ These are some of my repositories:
 </div>
 </div>
 
-
 <!--
 ### And these are some of my GitHub stats
-
-
-
-
 <!--
 ---
 
