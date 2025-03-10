@@ -9,8 +9,6 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-My next talk will be in the <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/"> Junior Number Theory seminar</a> of the University of Warwick on the 10th of March.
-
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 
 <!-- pages/projects.md -->
