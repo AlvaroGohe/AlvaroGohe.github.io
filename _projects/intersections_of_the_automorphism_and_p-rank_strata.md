@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intersections of the automorphism and p-rank strata inside of \(\overline{M}_2\)
+title: Intersections of the automorphism and p-rank strata inside of \(M_2\)
 description: VII Congreso de Jóvenes Investigadores de la RSME
 img: assets/img/Intersections_of_the_automorphism_and_p-rank_strata.png
 importance: -1
@@ -9,7 +9,9 @@ category: research
 related_publications: false
 ---
 
-I gave this talk at the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a> on the 16th of January of 2025.
+I first gave this talk at the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a> on the 16th of January of 2025.
+
+These are the slides I used
 
 <div style="padding-bottom: 100px; padding-top: 50px;">
     <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -20,3 +22,5 @@ I gave this talk at the Number Theory parallel session of the <a style="font-wei
     </iframe>
     </div>
 </div>
+
+On the 10th of March of 2025, I gave a blackboard, more extended, version of this talk at Warwick's Junior Number Theory seminar.
