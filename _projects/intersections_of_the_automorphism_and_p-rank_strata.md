@@ -23,4 +23,4 @@ These are the slides I used:
     </div>
 </div>
 
-On the 10th of March of 2025, I gave a blackboard, more extended, version of this talk at <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Warwick's Junior Number Theory seminar.</a>
+On the 10th of March of 2025, I gave a blackboard, more extended, version of this talk at <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Warwick's Junior Number Theory seminar.</a> I also gave a version of this talk at the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Number Theory seminar of the University of Manchester</a> on the 1st of April of 2025.
