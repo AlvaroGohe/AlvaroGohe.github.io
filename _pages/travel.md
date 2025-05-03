@@ -24,7 +24,7 @@ Let's try a second map:
 **Future conferences:**
 
 <ul>
-<li><a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
+<li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
 </ul>
 
 **Past conferences:**
