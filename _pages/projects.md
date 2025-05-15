@@ -12,7 +12,7 @@ horizontal: false
 My upcoming talks are:
 
 <ul>
-<li><a style="font-weight:bold">How to blow up a surface (without being arrested)</a> at the <a  href="https://warwick.ac.uk/services/dc/phdlife/festival/">Festival of Postgraduate Research</a>  on the 12th of May 2025.</li>
+<li><a style="font-weight:bold">Constructing K3 surfaces as quotients of abelian surfaces</a> at the <a  href="https://sites.google.com/view/juniornumbertheory2425/home">London Junior Number Theory Seminar</a>  on the 20th of May 2025.</li>
 <li><a style="font-weight:bold">Kernel methods</a> at the <a  href="https://www.marctruter.com/reading-groups">Reading group of Machine Learning</a>  on the 27th of May 2025.</li>
 </ul>
 
