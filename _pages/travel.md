@@ -25,6 +25,7 @@ Let's try a second map:
 
 <ul>
 <li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
+<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxxii/home?authuser=0">Géométrie Algébrique en Liberté (GAeL)</a>, Institut de Mathématiques de Toulouse, 16th - 20th of June, 2025.</li>
 </ul>
 
 **Past conferences:**
