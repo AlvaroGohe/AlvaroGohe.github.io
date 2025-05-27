@@ -4,7 +4,7 @@ title: Kernel methods
 description: Study group on Machine Learning
 img: assets/img/kernel_methods.png
 importance: -4
-date: 2025-05-27 18:01:00
+date: 2025-05-27 02:01:00
 category: study groups
 ---
 
