@@ -10,7 +10,7 @@ category: study groups
 
 I gave this talk on the 27th of May of 2025 for the <a href="https://www.marctruter.com/reading-groups">study group on Machine Learning</a> organised by <a href="https://www.marctruter.com/home">Marc Truter</a> and <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/lambley/">Hefin Lambley</a>. It had a theoretical component, where I explained the theory behind kernel methods, and a practical component, where I showed how to implement them using the `sklearn` library.
 
-<div style="padding-bottom: 100px; padding-top: 50px;"> </div>
+<div style="height: 50px;"></div>
 
 ## Theory
 
@@ -19,6 +19,8 @@ Kernel methods are a powerful set of techniques in machine learning that are use
 In previous weeks of the study group, we saw how to construct linear models that allow us to find trends in data. However, as we know, most phenomena that machine learning excels at studying, from image recognition to natural language processing, are inherently non-linear.
 
 Kernels provide a way to solve non-linear problems by transforming them into equivalent problems that can be solved efficiently using linear methods.
+
+<div style="height: 20px;"></div>
 
 ### Let's start with an example
 
@@ -37,19 +39,25 @@ Now, here is the trick on how to classify the data. Instead of trying to fit a l
 
 Indeed, just by considering $$\{x_1^2,x_2^2\}$$, we can easily see that the data can be easily separated with a line:
 
+<div style="padding-bottom: 20px">
 <div align="center">
 <img src="/assets/img/kernel_pics/classification_lines.png" alt="The points can be separated by a line" height="300" >
 </div>
 <div style="max-width: 100%; height: auto;"></div>
+</div>
 
 Now, this line corresponds to a conic in the original space, which separates our original data:
 
+<div style="padding-bottom: 20px">
 <div align="center">
 <img src="/assets/img/kernel_pics/classification_circles.png" alt="The points can be separated by a conic" height="350" >
 </div>
 <div style="max-width: 100%; height: auto;"></div>
+</div>
 
 This idea of mapping the data into a higher-dimensional space is the essence of kernel methods. In the exercise session, we will see how to implement them in practice using the `sklearn` library. But let's first explain the theory behind the kernel approach.
+
+<div style="height: 20px;"></div>
 
 ### Theoretical background
 
@@ -76,6 +84,8 @@ $$
 
 The first term of this expression represents how close the $$f_\theta(x_i)$$ are to the correct values in our training data, whereas $$\frac{\lambda}{2}\lVert \theta\rVert^2$$ is a regularization term that prevents overfitting by penalizing large values of the parameter $$\theta$$. We can use linear regression to find the parameter $$\theta$$ that minimises this expression.
 
+<div style="height: 20px;"></div>
+
 ### Introducing kernels
 
 From the discussion above, we saw that we can reduce non-linear problems to linear ones by using a feature map $$\varphi$$. In practice, there are two issues with this approach:
@@ -91,7 +101,7 @@ Assume that the feature map $$\varphi$$ now takes values in $$\mathcal{H}$$ rath
 
 **Representer Theorem (for supervised learning).** For $$\lambda>0$$, the infimum of the empirical risk
 
-$$ \inf*{\theta\in\mathcal{H}}\frac{1}{n}\sum*{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
+$$ \inf\_{\theta\in\mathcal{H}}\frac{1}{n}\sum\*{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
 
 can be obtained by restricting to a vector $$\theta$$ of the form:
 
@@ -139,48 +149,27 @@ Therefore, the existence of a kernel function $$k$$ is equivalent to the existen
 
 There are many other reasons why working with kernels is useful, including the fact that there are very efficient algorithms to compute kernels and solve their optimisation problem.
 
+<div style="height: 20px;"></div>
+
 ### Examples of kernels
 
 There are many different kernels that can be used in practice.
 Some of the most common ones are:
 
-<ul>
+- **Linear kernel**: $$k(x,x')=x^\top x'$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
+  Here, the kernel trick can be useful when the input data have huge dimension $$d$$, but is quite sparse, such as in text processing.
 
-<li>
+- **Polynomial kernel**: $$k(x,x')=(1+x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
+  The image of the feature map is the set of all polynomials on $$d$$ variables of degree at most $$s$$.</li>
 
-**Linear kernel**: $$k(x,x')=x^\top x'$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
+- **Homogeneous polynomial kernel**: $$k(x,x')=(x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
+  The image of the feature map is the set of degree $$s$$ homogeneous polynomials on $$\mathbb{R}^d$$.</li>
 
-Here, the kernel trick
-can be useful when the input data have huge dimension $$d$$, but is quite sparse, such as in text processing.
+- **Radial basis function (RBF) kernel**: $$k(x,x')=\exp\left(-\gamma\lVert x-x'\rVert^2\right)$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
+  This kernel is also known as the **Gaussian kernel**, and it is particularly useful in many applications, such as image processing and natural language processing. The parameter $$\gamma>0$$ controls the boundary of the decision region, in the sense that as $$\gamma$$ grows, the boundary becomes more complicated and can fit the data better, but it also increases the risk of overfitting.</li>
 
-</li>
-
-<li>
-
-**Polynomial kernel**: $$k(x,x')=(1+x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-
-The image of the feature map is the set of all polynomials on $$d$$ variables of degree at most $$s$$.</li>
-
-<li>
-
-**Homogeneous polynomial kernel**: $$k(x,x')=(x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-
-The image of the feature map is the set of degree $$s$$ homogeneous polynomials on $$\mathbb{R}^d$$.</li>
-
-<li>
-
-**Radial basis function (RBF) kernel**: $$k(x,x')=\exp\left(-\gamma\lVert x-x'\rVert^2\right)$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-
-This kernel is also known as the **Gaussian kernel**, and it is particularly useful in many applications, such as image processing and natural language processing. The parameter $$\gamma>0$$ controls the boundary of the decision region, in the sense that as $$\gamma$$ grows, the boundary becomes more complicated and can fit the data better, but it also increases the risk of overfitting.</li>
-
-<li>
-
-**Translation invariant kernels**: $$k(x,x')=q(x-x')$$, $$\forall x,x'\in[0,1]$$.
-
-The idea behind this class of kernels is that the space of square-integrable functions on $$[0,1]$$ is a Hilbert space with the inner product given by $$\langle f,g\rangle=\int_0^1 f(x)g(x)\,dx$$. An orthonormal basis of $$L_2([0, 1])$$ is given by the functions $$\sin(2\pi m x)$$ and $$\cos(2\pi n x)$$ for $$m,n\in\mathbb{N}$$, and we can study many aspects of $$q(x)$$ from the perspective of Fourier analysis. These kernels are particularly useful in time series analysis, where we can use them to study periodic phenomena (e.g., weather patterns, seasonal financial trends...)
-
-</li>
-</ul>
+- **Translation invariant kernels**: $$k(x,x')=q(x-x')$$, $$\forall x,x'\in[0,1]$$.
+  The idea behind this class of kernels is that the space of square-integrable functions on $$[0,1]$$ is a Hilbert space with the inner product given by $$\langle f,g\rangle=\int_0^1 f(x)g(x)\,dx$$. An orthonormal basis of $$L_2([0, 1])$$ is given by the functions $$\sin(2\pi m x)$$ and $$\cos(2\pi n x)$$ for $$m,n\in\mathbb{N}$$, and we can study many aspects of $$q(x)$$ from the perspective of Fourier analysis. These kernels are particularly useful in time series analysis, where we can use them to study periodic phenomena (e.g., weather patterns, seasonal financial trends...)
 
 We will see how to work with some of these kernels in practice in the exercise session.
 
@@ -192,12 +181,14 @@ In this practical session, we are going to be coding the problem that we discuss
 
 The techniques used to divide a set of observations in the decision space using hyperplanes are usually referred to as **Support Vector Machines** (abbreviated as SVMs). The reason why they are called that way is because what they do is to maximise the distance of the hyperplane to the **support vectors**, which are the data points that are closest to the decision surface.
 
+<div style="height: 20px;"></div>
+
 ### Learning how to use SVMs in Python
 
 We start by importing the libraries that we will need for this exercise:
 
 ```python
-## Imports
+# Imports
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_moons
@@ -209,17 +200,17 @@ from sklearn.metrics import accuracy_score
 Now, we are going to generate the data that we will use for the exercise. We will use the `make_moons` function from `sklearn.datasets`, which generates a two-dimensional dataset with a non-linear decision boundary.
 
 ```python
-## Generate synthetic 2D data (nonlinear)
+# Generate synthetic 2D data (nonlinear)
 X, y = make_moons(n_samples=200, noise=0.2, random_state=13)
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
-)  ## We use the train_test_split function to split the dataset into training and testing sets.
+)  # We use the train_test_split function to split the dataset into training and testing sets.
 ```
 
 The function `SVC` from `sklearn.svm` implements the Support Vector Machine algorithm. It takes as arguments the kernel to be used, the regularisation parameter $$C$$, and the degree of the polynomial kernel if it is used. The regularisation parameter $$C$$ is related to the $$\lambda$$ that we explained in the talk and controls the trade-off between maximizing the margin, which is the distance to the support vectors and minimising the classification error. A small value of $$C$$ will result in a larger margin but may misclassify some points, while a large value of $$C$$ will result in a smaller margin but will classify all points correctly.
 
 ```python
-## Here are some examples of SVM kernels that can be used for classification tasks:
+# Here are some examples of SVM kernels that can be used for classification tasks:
 kernels = {
     "Linear": SVC(kernel="linear", C=1),
     "Polynomial (degree=7)": SVC(kernel="poly", degree=7, C=1),
@@ -230,7 +221,7 @@ kernels = {
 Recall that we use `fit` to train the model and `predict` to make predictions. We can compute the accuracy of the model by comparing the predicted labels with the true labels using the `accuracy_score` function from `sklearn.metrics`.
 
 ```python
-### We see that the accuracy of the linear kernel is 85%
+# We see that the accuracy of the linear kernel is 85%
 linkernel = SVC(kernel="linear", C=1)
 linkernel.fit(X_train, y_train)
 y_pred = linkernel.predict(X_test)
@@ -241,7 +232,7 @@ print(acc)
 Let's now plot the decision boundary of the SVM model. We will create a `plot_decision_boundary` function to visualize the decision boundary.
 
 ```python
-## Plot decision boundary
+# Plot decision boundary
 def plot_decision_boundary(ker, X, y, title):
     h = 0.02
     x_min, x_max = X[:, 0].min() - 0.5, X[:, 0].max() + 0.5
@@ -294,29 +285,29 @@ For this exercise session, we are going to compute the decision boundary of a Su
 from skimage import io, color
 from skimage.filters import gaussian
 
-## Load image
-img = io.imread("warwick.jpg")  ## should be a black-and-white silhouette
+# Load image
+img = io.imread("warwick.jpg")  # should be a black-and-white silhouette
 plt.imshow(img)
 plt.axis("off")
 plt.title("Original Image")
 plt.show()
 
-## Convert to grayscale
+# Convert to grayscale
 gray = color.rgb2gray(img)
 
-## Apply Gaussian blur so the edges are not too sharp
+# Apply Gaussian blur so the edges are not too sharp
 gray = gaussian(gray, sigma=1)
 
-## Threshold to get a binary mask
+# Threshold to get a binary mask
 threshold = 0.3
-maskb = gray < threshold  ## black = foreground
-maskw = gray > 1 - threshold  ## white = foreground
+maskb = gray < threshold  # black = foreground
+maskw = gray > 1 - threshold  # white = foreground
 
-## Get coordinates of black pixels
+# Get coordinates of black pixels
 coordsb = np.column_stack(np.where(maskb))
 coordsw = np.column_stack(np.where(maskw))
 
-## Rescale both coordsb and coordsw to the same [-1, 1] square using global min/max
+# Rescale both coordsb and coordsw to the same [-1, 1] square using global min/max
 all_coords = np.vstack([coordsb, coordsw]).astype(float)
 min0, max0 = all_coords[:, 0].min(), all_coords[:, 0].max()
 min1, max1 = all_coords[:, 1].min(), all_coords[:, 1].max()
@@ -328,7 +319,7 @@ coordsb[:, 1] = 2 * (coordsb[:, 1] - min1) / (max1 - min1) - 1
 coordsw[:, 0] = 2 * (coordsw[:, 0] - min0) / (max0 - min0) - 1
 coordsw[:, 1] = 2 * (coordsw[:, 1] - min1) / (max1 - min1) - 1
 
-## The orientation is questionable, so we flip the axes
+# The orientation is questionable, so we flip the axes
 dum = coordsb.copy()
 coordsb[:, 0] = dum[:, 1]
 coordsb[:, 1] = -1 * dum[:, 0]
@@ -336,20 +327,20 @@ dum = coordsw.copy()
 coordsw[:, 0] = dum[:, 1]
 coordsw[:, 1] = -1 * dum[:, 0]
 
-## Subsample randomly from both sets of coordinates
-n_points = 800  ## This is the number of points to sample from each set
+# Subsample randomly from both sets of coordinates
+n_points = 800  # This is the number of points to sample from each set
 idxb = np.random.choice(len(coordsb), size=n_points, replace=False)
 idxw = np.random.choice(len(coordsw), size=n_points, replace=False)
 XB = coordsb[idxb]
 XW = coordsw[idxw]
 
-## Visualise
+# Visualise
 plt.figure(figsize=(6, 6))
-plt.scatter(XB[:, 0], XB[:, 1], s=2, color="black")  ## note flipped axes
-plt.scatter(XW[:, 0], XW[:, 1], s=2, color="white")  ## note flipped axes
+plt.scatter(XB[:, 0], XB[:, 1], s=2, color="black")  # note flipped axes
+plt.scatter(XW[:, 0], XW[:, 1], s=2, color="white")  # note flipped axes
 plt.title("Random samples from the image")
 plt.axis("equal")
-plt.gca().set_facecolor("lightgray")  ## or any color you prefer, e.g. "#f0f0f0"
+plt.gca().set_facecolor("lightgray")  # or any color you prefer, e.g. "#f0f0f0"
 plt.show()
 ```
 
@@ -371,22 +362,11 @@ Now that we have generated the data, let's try to train the models. We have two 
 
 To compute $$X$$ and $$y$$, you may find useful to use the following functions:
 
-<ul>
-<li>
-
-`np.vstack` and `np.hstack` can be used to stack arrays vertically and horizontally, respectively.
-
-</li>
-
-<li>
-
-`np.zeros` and `np.one` can be used to produce arrays of length $$n$$ with only zeros or ones, respectively.
-
-</li>
-</ul>
+- `np.vstack` and `np.hstack` can be used to stack arrays vertically and horizontally, respectively.
+- `np.zeros` and `np.one` can be used to produce arrays of length $$n$$ with only zeros or ones, respectively.
 
 ```python
-## Create training data from XB (label 0) and XW (label 1)
+# Create training data from XB (label 0) and XW (label 1)
 X = __
 print(X)
 y = __
@@ -403,7 +383,7 @@ Let's now compare how different kernels perform on this dataset. More specifical
 More specifically, what I want is a dictionary whose keys are "Polynomial of degree d" and the values are the SVM models with the polynomial kernel of degree $$d$$, with $$d$$ ranging from 1 to 9.
 
 ```python
-## Create a dictionary of polynomial kernels with different degrees.
+# Create a dictionary of polynomial kernels with different degrees.
 polykernels = {"__": SVC(kernel="__", degree=__) for d in __}
 print(polykernels)
 ```
@@ -415,17 +395,17 @@ print(polykernels)
 Let's do a table with the accuracy of each model. You can use the `pandas` library to create a data frame with the results. The data frame should have two columns: "Kernel" and "Accuracy". The "Kernel" column should contain the name of the kernel, and the "Accuracy" column should contain the accuracy of the model.
 
 ```python
-## Create a data frame to store the name and accuracy of each kernel.
+# Create a data frame to store the name and accuracy of each kernel.
 import pandas as pd
 
 results = __
 for name, ker in polykernels.items():
-    __.fit(__, __)  ## Fit the model
-    y_pred = __.predict(__)  ## Predict the labels for the test set
-    acc = accuracy_score(__, __)  ## Compute the accuracy
+    __.fit(__, __)  # Fit the model
+    y_pred = __.predict(__)  # Predict the labels for the test set
+    acc = accuracy_score(__, __)  # Compute the accuracy
     results.append(
         {"Kernel": __, "Accuracy": __}
-    )  ## Add starting rows of the data frame
+    )  # Add starting rows of the data frame
 df_results = pd.DataFrame(__)
 print(__)
 ```
@@ -437,7 +417,7 @@ print(__)
 Finally, we will plot the decision boundaries of the models in the dictionary. You can use the `plot_decision_boundary` function that we defined earlier to do this.
 
 ```python
-## Make a plot with the decision boundaries of each of the polynomial kernels that includes the name and the accuracy.
+# Make a plot with the decision boundaries of each of the polynomial kernels that includes the name and the accuracy.
 for name, ker in polykernels.items():
     ker.fit(__, __)
     y_pred = ker.predict(__)
@@ -458,7 +438,7 @@ You can also experiment with the different kernels and see how they perform on t
 #### Solution to Exercise 1
 
 ```python
-## Create training data from XB (label 0) and XW (label 1)
+# Create training data from XB (label 0) and XW (label 1)
 X = np.vstack([XB, XW])
 print(X)
 y = np.hstack([np.zeros(len(XB)), np.ones(len(XW))])
@@ -486,7 +466,7 @@ Output:
 #### Solution to Exercise 2
 
 ```python
-## Create a dictionary of polynomial kernels with different degrees
+# Create a dictionary of polynomial kernels with different degrees
 polykernels = {
     f"Polynomial of degree {d}": SVC(kernel="poly", degree=d) for d in range(1, 10)
 }
@@ -536,7 +516,7 @@ Output:
 #### Solution to Exercise 4
 
 ```python
-## Make a plot with the decision boundaries of each of the polynomial kernels that includes the name and the accuracy.
+# Make a plot with the decision boundaries of each of the polynomial kernels that includes the name and the accuracy.
 for name, ker in polykernels.items():
     ker.fit(X_train, y_train)
     y_pred = ker.predict(X_test)
