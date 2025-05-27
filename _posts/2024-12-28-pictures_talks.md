@@ -18,6 +18,5 @@ In case you need more proof that I am a real person :satisfied:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Jornadas_Teoria_de_Numeros.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Hodge_Club_Talk_equations.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Hodge_Club_Talk.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/talks/Warwick_Postgraduate_Seminar_Talk.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 </div>
