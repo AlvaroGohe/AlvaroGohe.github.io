@@ -2,8 +2,8 @@
 layout: page
 title: Kernel methods
 description: Study group on Machine Learning
-img: assets/img/Odaka's_theorems.png
-importance: 12
+img: assets/img/kernel_methods.png
+importance: -4
 date: 2025-05-27 18:01:00
 category: study groups
 ---
