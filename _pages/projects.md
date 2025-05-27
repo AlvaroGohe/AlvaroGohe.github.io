@@ -9,12 +9,6 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-My upcoming talks are:
-
-<ul>
-<li><a style="font-weight:bold">Constructing K3 surfaces as quotients of abelian surfaces</a> at the <a  href="https://sites.google.com/view/juniornumbertheory2425/home">London Junior Number Theory Seminar</a>  on the 20th of May 2025.</li>
-<li><a style="font-weight:bold">Kernel methods</a> at the <a  href="https://www.marctruter.com/reading-groups">Reading group of Machine Learning</a>  on the 27th of May 2025.</li>
-</ul>
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 

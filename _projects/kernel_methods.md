@@ -93,7 +93,7 @@ From the discussion above, we saw that we can reduce non-linear problems to line
 - We often do not know how to choose a good feature map $$\varphi$$ and we may need to try several ones before finding one that works well.
 - Solving the optimisation problem above can be computationally expensive, especially if the input data has very large dimension. This is something common in many problems, particularly, when we have very sparsely populated data.
 
-To model mathematically how it is to work with very high dimensional data, we can use Hilbert spaces. Recall that a **Hilbert space** is a vector space (possibly of infinite dimension) with an inner product space that is complete with respect to the norm induced by the inner product.
+To model mathematically how it is to work with very high dimensional data, we can use Hilbert spaces. Recall that a **Hilbert space** is a vector space $$\mathcal{H}$$ (possibly of infinite dimension) with an inner product space that is complete with respect to the norm induced by the inner product.
 
 Assume that the feature map $$\varphi$$ now takes values in $$\mathcal{H}$$ rather than $$\mathbb{R}^{m}$$. One would imagine that solving the optimisation problem given by $$(1)$$ in this setting is now even more difficult, as we may be working in a space with infinite dimension. But there is a theorem that guarantees that the difficulty of the problem only depends on the number of elements in our training data, not on the size of the input space $$\mathcal{X}$$:
 
@@ -101,7 +101,7 @@ Assume that the feature map $$\varphi$$ now takes values in $$\mathcal{H}$$ rath
 
 **Representer Theorem (for supervised learning).** For $$\lambda>0$$, the infimum of the empirical risk
 
-$$ \inf\_{\theta\in\mathcal{H}}\frac{1}{n}\sum\*{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
+$$ \inf_{\theta\in\mathcal{H}}\frac{1}{n}\sum\*{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
 
 can be obtained by restricting to a vector $$\theta$$ of the form:
 
@@ -160,18 +160,18 @@ Some of the most common ones are:
   Here, the kernel trick can be useful when the input data have huge dimension $$d$$, but is quite sparse, such as in text processing.
 
 - **Polynomial kernel**: $$k(x,x')=(1+x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-  The image of the feature map is the set of all polynomials on $$d$$ variables of degree at most $$s$$.</li>
+  The image of the feature map is the set of all polynomials on $$d$$ variables of degree at most $$s$$.
 
 - **Homogeneous polynomial kernel**: $$k(x,x')=(x^\top x')^s$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-  The image of the feature map is the set of degree $$s$$ homogeneous polynomials on $$\mathbb{R}^d$$.</li>
+  The image of the feature map is the set of degree $$s$$ homogeneous polynomials on $$\mathbb{R}^d$$.
 
 - **Radial basis function (RBF) kernel**: $$k(x,x')=\exp\left(-\gamma\lVert x-x'\rVert^2\right)$$, $$\forall x,x'\in\mathcal{X}\subseteq\mathbb{R}^d$$.
-  This kernel is also known as the **Gaussian kernel**, and it is particularly useful in many applications, such as image processing and natural language processing. The parameter $$\gamma>0$$ controls the boundary of the decision region, in the sense that as $$\gamma$$ grows, the boundary becomes more complicated and can fit the data better, but it also increases the risk of overfitting.</li>
+  This kernel is also known as the **Gaussian kernel**, and it is particularly useful in many applications, such as image processing and natural language processing. The parameter $$\gamma>0$$ controls the boundary of the decision region, in the sense that as $$\gamma$$ grows, the boundary becomes more complicated and can fit the data better, but it also increases the risk of overfitting.
 
 - **Translation invariant kernels**: $$k(x,x')=q(x-x')$$, $$\forall x,x'\in[0,1]$$.
   The idea behind this class of kernels is that the space of square-integrable functions on $$[0,1]$$ is a Hilbert space with the inner product given by $$\langle f,g\rangle=\int_0^1 f(x)g(x)\,dx$$. An orthonormal basis of $$L_2([0, 1])$$ is given by the functions $$\sin(2\pi m x)$$ and $$\cos(2\pi n x)$$ for $$m,n\in\mathbb{N}$$, and we can study many aspects of $$q(x)$$ from the perspective of Fourier analysis. These kernels are particularly useful in time series analysis, where we can use them to study periodic phenomena (e.g., weather patterns, seasonal financial trends...)
 
-We will see how to work with some of these kernels in practice in the exercise session.
+We will now see how to work with some of these kernels in practice in the exercise session.
 
 <div style="height: 50px;"></div>
 
