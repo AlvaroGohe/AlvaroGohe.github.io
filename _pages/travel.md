@@ -21,18 +21,15 @@ Let's try a second map:
 **These are the conferences I am planning to attend next:**
 -->
 
-**Future conferences:**
 
-<ul>
-<li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
-<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxxii/home?authuser=0">Géométrie Algébrique en Liberté (GAeL)</a>, Institut de Mathématiques de Toulouse, 16th - 20th of June, 2025.</li>
-</ul>
 
 **Past conferences:**
 
 **2025**
 
 <ul>
+<li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
+<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxxii/home?authuser=0">Géométrie Algébrique en Liberté (GAeL)</a>, Institut de Mathématiques de Toulouse, 16th - 20th of June, 2025.</li>
 <li><a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Euskal Herriko Unibertsitatea, 13th - 17th of January, 2025.</li>
 </ul>
 
