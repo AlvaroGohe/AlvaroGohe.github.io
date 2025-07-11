@@ -6,10 +6,12 @@ img: assets/img/Intersections_of_the_automorphism_and_p-rank_strata.png
 importance: -1
 date: 2025-01-16 21:01:00
 category: research
-related_publications: false
+related_publications: true
 ---
 
 I first gave this talk at the Number Theory parallel session of the <a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a> on the 16th of January of 2025.
+
+On the 10th of March of 2025, I gave a blackboard, more extended, version of this talk at <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Warwick's Junior Number Theory seminar.</a> I also gave a version of this talk at the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Number Theory seminar of the University of Manchester</a> on the 1st of April of 2025.
 
 These are the slides I used:
 
@@ -23,4 +25,4 @@ These are the slides I used:
     </div>
 </div>
 
-On the 10th of March of 2025, I gave a blackboard, more extended, version of this talk at <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Warwick's Junior Number Theory seminar.</a> I also gave a version of this talk at the <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/24-25/">Number Theory seminar of the University of Manchester</a> on the 1st of April of 2025.
+This talk is based on my paper **Intersections of the automorphism and the Ekedahl-Oort strata in $M_2$** {% cite Gonzalez-Hernandez2025IntersectionsStrata %}.

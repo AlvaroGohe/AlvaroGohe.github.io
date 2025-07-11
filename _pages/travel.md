@@ -28,9 +28,10 @@ Let's try a second map:
 **2025**
 
 <ul>
-<li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June, 2025.</li>
-<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxxii/home?authuser=0">Géométrie Algébrique en Liberté (GAeL)</a>, Institut de Mathématiques de Toulouse, 16th - 20th of June, 2025.</li>
-<li><a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Euskal Herriko Unibertsitatea, 13th - 17th of January, 2025.</li>
+<li><a style="font-weight:bold" href="https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/thequeerexperienceinmathematics/">The Queer Experience in Mathematics</a>, University of Loughborough, 2nd July.</li>
+<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxxii/home?authuser=0">Géométrie Algébrique en Liberté (GAeL XXXII)</a>, Institut de Mathématiques de Toulouse, 16th - 20th of June.</li>
+<li><a style="font-weight:bold" href="https://www.mathconf.org/gass2025">Spring School: Group Actions and Symplectic Singularities</a>, Université de Lille, 2nd - 6th of June.</li>
+<li><a style="font-weight:bold" href="https://jovenes2025.rsme.es/index.html">VII Congreso de Jóvenes Investigadores de la RSME</a>, Euskal Herriko Unibertsitatea, 13th - 17th of January.</li>
 </ul>
 
 **2024**
@@ -52,7 +53,7 @@ Let's try a second map:
 <li><a style="font-weight:bold" href="https://y-rant.github.io/historic/YRANT5/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Cambridge, 6th - 8th of September.</li>
 <li><a style="font-weight:bold" href="https://quings-workshop.github.io/2023/">Queer in Number Theory and Geometry (QuINGs)</a>, West Lexham, 30th of August - 1st of September.</li>
 <li><a style="font-weight:bold" href="https://enem.anem.es/2023/">XXIV Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Extremadura, 24th - 29th of July.</li>
-<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxx/home">Géométrie Algébrique en Liberté (GAeL)</a>, University of Warwick, 3rd - 7th of July.</li>
+<li><a style="font-weight:bold" href="https://sites.google.com/view/gaelxxx/home">Géométrie Algébrique en Liberté (GAeL XXX)</a>, University of Warwick, 3rd - 7th of July.</li>
 <li><a style="font-weight:bold" href="https://www.lorentzcenter.nl/an-expedition-into-arithmetic-geometry.html">An Expedition into Arithmetic Geometry</a>, Lorentz Center, 30th of May - 2nd of June.</li>
 <li><a style="font-weight:bold" href="https://conferences.cirm-math.fr/2679.html">Spring School in Arithmetic Statistics</a>, Centre International de Rencontres Mathématiques (CIRM), 8th - 12th of May.</li>
 <li><a style="font-weight:bold" href="http://www.rnta.eu/7MSRNTA/index.html">7th Symposium of the Roman Number Theory Association</a>, Università Roma Tre, 2nd - 6th of May.</li>
