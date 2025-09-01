@@ -26,5 +26,3 @@ These are the slides I used:
     </iframe>
     </div>
 </div>
-
-

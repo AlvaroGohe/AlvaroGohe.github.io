@@ -101,7 +101,7 @@ Assume that the feature map $$\varphi$$ now takes values in $$\mathcal{H}$$ rath
 
 **Representer Theorem (for supervised learning).** For $$\lambda>0$$, the infimum of the empirical risk
 
-$$ \inf_{\theta\in\mathcal{H}}\frac{1}{n}\sum_{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
+$$ \inf*{\theta\in\mathcal{H}}\frac{1}{n}\sum*{i=1}^n \ell(y_i,\langle\theta, \varphi(x_i)\rangle)+\frac{\lambda}{2}\lVert \theta\rVert^2$$
 
 can be obtained by restricting to a vector $$\theta$$ of the form:
 

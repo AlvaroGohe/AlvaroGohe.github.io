@@ -21,10 +21,10 @@ Let's try a second map:
 -->
 
 **These are the conferences I am planning to attend next:**
+
 <ul>
 <li><a style="font-weight:bold" href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Nottingham, 3rd - 5th of September.</li>
 </ul>
-
 
 **Past conferences:**
 
