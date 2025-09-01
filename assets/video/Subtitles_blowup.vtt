@@ -1,0 +1,241 @@
+﻿WEBVTT
+
+00:00:02.680 --> 00:00:05.560
+Okay, Alvaro. Yay, brilliant.
+
+00:00:06.080 --> 00:00:07.960
+So Alvaro's going to talk about how to
+
+00:00:07.960 --> 00:00:10.160
+blow up a surface without getting
+
+00:00:10.160 --> 00:00:10.800
+arrested.
+
+00:00:17.920 --> 00:00:19.920
+Let me start with a real world story.
+
+00:00:20.240 --> 00:00:22.200
+So one of the leading researchers in my
+
+00:00:22.200 --> 00:00:24.440
+area of research was in an airport and he
+
+00:00:24.440 --> 00:00:25.560
+was talking to a colleague through the
+
+00:00:25.560 --> 00:00:28.400
+phone. He was like, "I tried
+
+00:00:28.400 --> 00:00:30.440
+everything to sort out this problem, but
+
+00:00:30.440 --> 00:00:32.240
+there's no other choice. I have to blow
+
+00:00:32.280 --> 00:00:34.840
+up a plane". Then, the airport
+
+00:00:34.840 --> 00:00:36.960
+security overheard him and immediately
+
+00:00:36.960 --> 00:00:39.840
+arrested him. However, after long
+
+00:00:40.320 --> 00:00:42.440
+hours of questioning, he was finally
+
+00:00:42.440 --> 00:00:44.800
+released. Turns out, he had been talking
+
+00:00:44.800 --> 00:00:47.600
+about his research. My name is Alvaro,
+
+00:00:47.800 --> 00:00:49.440
+and I am a researcher in algebraic
+
+00:00:49.440 --> 00:00:51.320
+geometry, which is an area of pure
+
+00:00:51.320 --> 00:00:54.080
+mathematics that uses algebra to study
+
+00:00:54.080 --> 00:00:57.040
+geometry. More specifically, my area of
+
+00:00:57.040 --> 00:00:59.920
+research are surfaces. Surfaces
+
+00:01:00.000 --> 00:01:02.800
+are basically the shells of 3D
+
+00:01:02.800 --> 00:01:04.640
+objects that we know, such as the sphere,
+
+00:01:04.960 --> 00:01:07.840
+the cone, or the cylinder. My job as a
+
+00:01:07.840 --> 00:01:10.320
+mathematician is to try to see what these
+
+00:01:10.320 --> 00:01:11.600
+things have in common, what these shapes
+
+00:01:11.600 --> 00:01:13.480
+have in common, and what allows us to
+
+00:01:13.480 --> 00:01:15.560
+tell them apart. So, for instance, let's
+
+00:01:15.560 --> 00:01:17.600
+look at an easy case, the sphere and the
+
+00:01:17.600 --> 00:01:20.320
+cone. The surface of the sphere is quite
+
+00:01:20.320 --> 00:01:23.120
+uniform and regular and soft, whereas
+
+00:01:23.120 --> 00:01:25.240
+the cone has this pointy bit that if
+
+00:01:25.240 --> 00:01:27.520
+we touch it, it pinches us.
+
+00:01:28.560 --> 00:01:30.400
+So surfaces are quite uniform and
+
+00:01:30.400 --> 00:01:31.720
+regular, it's what we know as smooth
+
+00:01:31.720 --> 00:01:33.840
+surfaces. Whereas surfaces that have,
+
+00:01:34.720 --> 00:01:37.360
+you know, punchy bits and rugged
+
+00:01:37.760 --> 00:01:39.680
+parts are what we know as singular
+
+00:01:39.680 --> 00:01:41.920
+surfaces. And my job as a mathematician
+
+00:01:41.920 --> 00:01:44.000
+is to determine how to transform smooth
+
+00:01:44.000 --> 00:01:46.560
+surfaces, well, singular surfaces into
+
+00:01:46.560 --> 00:01:49.200
+smooth surfaces. A technique that I
+
+00:01:49.200 --> 00:01:51.080
+use to do this is what is known as a
+
+00:01:51.080 --> 00:01:53.200
+blow-up. And this is the technique that
+
+00:01:53.200 --> 00:01:55.360
+this researcher was talking about when he
+
+00:01:55.360 --> 00:01:58.160
+was arrested. So the main
+
+00:01:58.160 --> 00:02:00.960
+idea of it is, imagine that we want to
+
+00:02:00.960 --> 00:02:03.160
+transform a cone into a sphere. One thing
+
+00:02:03.160 --> 00:02:04.640
+that we could do is, we can imagine that
+
+00:02:04.640 --> 00:02:06.240
+the surface of the cone is made out of
+
+00:02:06.240 --> 00:02:08.240
+rubber, and it has a hole in the bottom,
+
+00:02:08.480 --> 00:02:10.520
+so we can plump a bike pump, and we
+
+00:02:10.520 --> 00:02:12.800
+can just inflate the cone until
+
+00:02:13.120 --> 00:02:15.120
+somehow the pointy bit just starts
+
+00:02:15.120 --> 00:02:17.000
+becoming more and more uniform until it
+
+00:02:17.000 --> 00:02:19.320
+resembles the sphere. This is the idea
+
+00:02:19.360 --> 00:02:21.280
+behind blow-ups, and this is the idea
+
+00:02:21.280 --> 00:02:24.160
+behind my research. What I do is, I
+
+00:02:24.160 --> 00:02:26.600
+use computers to study how to
+
+00:02:26.800 --> 00:02:29.040
+make very singular surfaces, like the one
+
+00:02:29.040 --> 00:02:31.200
+you can see on the screen, into very
+
+00:02:31.200 --> 00:02:33.640
+smooth surfaces. And you might be
+
+00:02:33.640 --> 00:02:35.040
+wondering, why am I interested in
+
+00:02:35.040 --> 00:02:37.320
+something like this? Well, my research has
+
+00:02:37.320 --> 00:02:40.000
+applications in many areas. For instance,
+
+00:02:40.320 --> 00:02:42.080
+many objects in physics, such as black
+
+00:02:42.080 --> 00:02:44.800
+holes, are modeled as singularities
+
+00:02:44.880 --> 00:02:47.640
+in time and space, for instance. It also
+
+00:02:47.640 --> 00:02:50.080
+has applications in 3D modeling, where
+
+00:02:50.400 --> 00:02:52.120
+resolving singularities allows us to
+
+00:02:52.640 --> 00:02:55.440
+have more accurate and more
+
+00:02:55.440 --> 00:02:58.320
+interactive models. So either by
+
+00:02:58.320 --> 00:03:01.200
+studying, if we want to study the corners
+
+00:03:01.200 --> 00:03:03.120
+of the universe or make our favorite
+
+00:03:03.120 --> 00:03:05.440
+characters look better, many of the
+
+00:03:05.440 --> 00:03:07.080
+problems in mathematics can be solved
+
+00:03:07.080 --> 00:03:08.400
+with a bang. Thank you.
+
+00:03:18.920 --> 00:03:21.040
+So, literally ended his talk with a bang.
+
+00:03:21.440 --> 00:03:22.640
+Brilliant. Okay.

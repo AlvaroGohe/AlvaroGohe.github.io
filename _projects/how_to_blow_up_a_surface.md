@@ -10,12 +10,19 @@ category: outreach
 
 As part of the Festival of Postgraduate Research at the University of Warwick, on the 12th of May of 2025, I gave a three-minute talk explaining what my PhD is about to a general audience. Here is the video:
 
-<div style="padding: 30px; margin: 20px 0; border: 1px solid #ccc; border-radius: 12px; display: flex; justify-content: center; background-color: #f9f9f9;">
-  <video 
-    src="/assets/video/How_to_blow_up_video.mp4" 
-    type="video/mp4" 
-    controls 
-    style="width: 100%; max-width: 720px; height: auto; border-radius: 8px;">
-    Your browser does not support the video tag.
-  </video>
-</div>
+  <div style="position: relative; width: 100%; max-width: 720px; padding-top: 56.25%;"> <!-- 16:9 aspect ratio -->
+    <video 
+      src="/assets/video/How_to_blow_up_video.mp4" 
+      controls 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;"
+    >
+      <track 
+        src="/assets/video/Subtitles_blowup.vtt" 
+        kind="subtitles" 
+        srclang="en" 
+        label="English" 
+        default
+      >
+      Your browser does not support the video tag.
+    </video>
+  </div>
