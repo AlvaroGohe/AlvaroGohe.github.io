@@ -18,9 +18,12 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 ```
 Let's try a second map:
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/alvarogohe/cm02jda1d00b101ph2zkxc3yr.html?title=false&access_token=pk.eyJ1IjoiYWx2YXJvZ29oZSIsImEiOiJjbTAyajlobXYwMXczMmpxbDdzcjJmaWd3In0.jA3FKCULSm6xzs4zw6cgKA&zoomwheel=false#4.73/40.01/4.09" title="Travelling Conference" style="border:none;"></iframe>
-**These are the conferences I am planning to attend next:**
 -->
 
+**These are the conferences I am planning to attend next:**
+<ul>
+<li><a style="font-weight:bold" href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Nottingham, 3rd - 5th of September.</li>
+</ul>
 
 
 **Past conferences:**

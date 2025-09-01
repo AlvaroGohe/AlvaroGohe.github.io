@@ -358,7 +358,7 @@ plt.show()
 
 #### Exercise 1
 
-Now that we have generated the data, let's try to train the models. We have two arrays, `XB` and `XW` that contain the coordinates of the black and white pixels, respectively. Your first task is to produce training and testing sets from these arrays. You can use the `train_test_split` function from `sklearn.model_selection` to do this. It takes as arguments two arrays $$X$$ with the data and $$y$$ with the labels of $$X$; the test size, and a random state (that is used for reproducibility).
+Now that we have generated the data, let's try to train the models. We have two arrays, `XB` and `XW` that contain the coordinates of the black and white pixels, respectively. Your first task is to produce training and testing sets from these arrays. You can use the `train_test_split` function from `sklearn.model_selection` to do this. It takes as arguments two arrays $$X$$ with the data and $$y$$ with the labels of $$X$$; the test size, and a random state (that is used for reproducibility).
 
 To compute $$X$$ and $$y$$, you may find useful to use the following functions:
 

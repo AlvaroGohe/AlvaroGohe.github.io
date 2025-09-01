@@ -20,9 +20,7 @@ social: true # includes social icons at the bottom of the page
 <meta google-site-verification=Drv9VlgLtwHUs1lwpjfMLYrq60TahBaTiMjalRV9r8s>
 <meta name="google-site-verification" content="gxla9JshOLPC6DSHFhmvOQZ0kpvohSSlLJqp65GpQXg" />
 
-Hola! I am a fourth year PhD student in algebraic geometry and number theory under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a> at the <a href='https://warwick.ac.uk/fac/sci/maths/'>University of Warwick</a>. Some of the topics that I am interested in are: K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties.
-
-I am in the job market, looking for positions starting in 2025.
+Hola! I am a Teaching Fellow at the <a href='https://warwick.ac.uk/fac/sci/maths/'>Warwick Mathematics Institute</a>, where I am also completing my PhD under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown </a>. I am interested in algebraic geometry and number theory, particularly on the following topics: K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties.
 
 I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain). I also spent a year at the University of Edinburgh as an exchange student during my undergraduate degree.
 

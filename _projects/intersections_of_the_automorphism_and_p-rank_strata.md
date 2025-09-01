@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intersections of the automorphism and p-rank strata inside of \(M_2\)
+title: Intersections of the automorphism and p-rank strata inside \(M_2\)
 description: VII Congreso de Jóvenes Investigadores de la RSME
 img: assets/img/Intersections_of_the_automorphism_and_p-rank_strata.png
 importance: -1

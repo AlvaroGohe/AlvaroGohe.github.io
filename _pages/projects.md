@@ -9,6 +9,13 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
+These are my upcoming talks:
+
+<ul>
+<li><a style="font-weight:bold" href="https://y-rant.github.io/">Crazy for three: Quotients of abelian surfaces by a group of order 3 in characteristic 3</a>, Young Researchers in Algebraic Number Theory, University of Nottingham, 4th September.</li>
+<li><a style="font-weight:bold" href="https://math.univ-lille.fr/detail-event/alvaro-gonzalez-hernandez-university-of-warwick-generalised-kummer-surfaces-in-positive-characteristic">Generalised Kummer surfaces in positive characteristic</a>, Université de Lille, 11th September.</li>
+</ul>
+
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 
