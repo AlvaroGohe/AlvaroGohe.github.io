@@ -8,8 +8,9 @@ date: 2025-05-12 15:01:00
 category: outreach
 ---
 
-As part of the Festival of Postgraduate Research at the University of Warwick, on the 12th of May of 2025, I gave a three-minute talk explaining what my PhD is about to a general audience. Here is the video:
+On the 12th of May of 2025, as part of the <a href="https://warwick.ac.uk/services/dc/phdlife/festival/">Festival of Postgraduate Research</a> at the University of Warwick, I gave a three-minute talk explaining what my PhD is about to a general audience. Here is the video:
 
+<div style="display: flex; justify-content: center; padding: 30px 0;">
   <div style="position: relative; width: 100%; max-width: 720px; padding-top: 56.25%;"> <!-- 16:9 aspect ratio -->
     <video 
       src="/assets/video/How_to_blow_up_video.mp4" 
@@ -26,3 +27,4 @@ As part of the Festival of Postgraduate Research at the University of Warwick, o
       Your browser does not support the video tag.
     </video>
   </div>
+</div>
