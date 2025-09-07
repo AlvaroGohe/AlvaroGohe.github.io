@@ -12,7 +12,6 @@ horizontal: false
 These are my upcoming talks:
 
 <ul>
-<li><a style="font-weight:bold" href="https://y-rant.github.io/">Crazy for three: Quotients of abelian surfaces by a group of order 3 in characteristic 3</a>, Young Researchers in Algebraic Number Theory, University of Nottingham, 4th September.</li>
 <li><a style="font-weight:bold" href="https://math.univ-lille.fr/detail-event/alvaro-gonzalez-hernandez-university-of-warwick-generalised-kummer-surfaces-in-positive-characteristic">Generalised Kummer surfaces in positive characteristic</a>, Université de Lille, 11th September.</li>
 </ul>
 
