@@ -14,7 +14,7 @@ Here is an overview of the teaching roles I have had at Warwick
 **2024 - 2025**
 
 <ul>
-<li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
+<li> Teaching assistant for <a style="font-weight:bold">MA2K3 - Consolidation</a>.</li>
 </ul>
 
 **2023 - 2024**
