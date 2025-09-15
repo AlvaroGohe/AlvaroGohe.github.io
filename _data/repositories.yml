@@ -5,5 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - AlvaroGohe/Kummer-surface-and-Jacobian-of-a-genus-2-curve-in-characteristic-2
+  - AlvaroGohe/Intersections-of-strata-in-the-moduli-space-of-genus-2-curves
   - AlvaroGohe/Continued-fractions-in-Mathematica
   - Macaulay2/Workshop-2023-Warwick

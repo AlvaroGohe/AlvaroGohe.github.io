@@ -3,7 +3,7 @@ layout: page
 title: Crazy for three, K3 quotients of abelian surfaces by a group of order three in characteristic three
 description: Young Researchers in Algebraic Number Theory (Y-RANT)
 img: assets/img/Crazy_for_3.png
-importance: -4
+importance: -5
 date: 2025-09-04 15:01:00
 category: research
 ---
