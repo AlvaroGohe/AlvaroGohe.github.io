@@ -9,7 +9,7 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-<!-->
+<!--
 These are my upcoming talks:
 -->
 
