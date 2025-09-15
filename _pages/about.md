@@ -24,13 +24,15 @@ Hola! I am a Teaching Fellow at the <a href='https://warwick.ac.uk/fac/sci/maths
 
 <!-- I am interested in algebraic geometry and number theory, particularly on the following topics: K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties. If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience. -->
 
-I am interested in algebraic geometry and number theory, particularly on the following topics: 
+I am interested in algebraic geometry and number theory, particularly on the following topics:
+
 <ul>
-<li> K3 surfaces and their arithmetic.
-<li> Singularities in positive characteristic geometry. 
-<li> Generalised Kummer surfaces.
-<li> Abelian varieties. 
+<li> K3 surfaces and their arithmetic. </li>
+<li> Singularities in positive characteristic geometry. </li>
+<li> Generalised Kummer surfaces. </li>
+<li> Abelian varieties. </li>
 </ul>
+
 If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience.
 
 I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain). I also spent a year at the University of Edinburgh as an exchange student during my undergraduate degree.

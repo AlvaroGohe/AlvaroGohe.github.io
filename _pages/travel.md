@@ -21,8 +21,6 @@ Let's try a second map:
 **These are the conferences I am planning to attend next:**
 -->
 
-
-
 **Past conferences:**
 
 **2025**
