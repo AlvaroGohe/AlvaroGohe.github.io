@@ -7,14 +7,29 @@ nav: true
 nav_order: 6
 ---
 
-I believe that support classes should be interactive and for that reason, I usually like to start my lessons by quizzing my students using the platform Kahoot! I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>, so have a look if you are interested.
+**Current roles**
 
-Here is an overview of the teaching roles I have had at Warwick
+**2025 - 2026**
+
+<ul>
+<li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a>
+<li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
+<li> Coordinator of the <a style="font-weight:bold;"> third-year Algebra</a> <a style="font-weight:bold; font-style:italic;"> mathXchange</a>.</li>
+<li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of one group of first-year undergraduate joint-degree students.</li>
+</ul>
+
+<hr style="margin-top: 30px; margin-bottom: 30px;">
+
+**Past roles**
+
+Here is an overview of the teaching roles I have had at Warwick:
 
 **2024 - 2025**
 
 <ul>
 <li> Teaching assistant for <a style="font-weight:bold">MA2K3 - Consolidation</a>.</li>
+<li> Marker of the <a style="font-weight:bold">MA132 - Foundations</a> exam.</li>
+<li> Marker of the <a style="font-weight:bold">MA3A6 - Algebraic Number Theory</a> exam.</li>
 </ul>
 
 **2023 - 2024**
@@ -48,3 +63,5 @@ Here is an overview of the teaching roles I have had at Warwick
 </ul>
 
 Furthermore, I have privately tutored Mathematics courses from GCSE up to university level.
+
+I believe that support classes should be interactive and for that reason, I usually like to start my lessons by quizzing my students using the platform Kahoot! I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>, so have a look if you are interested.

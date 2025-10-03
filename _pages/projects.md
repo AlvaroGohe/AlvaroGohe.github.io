@@ -13,6 +13,12 @@ horizontal: false
 These are my upcoming talks:
 -->
 
+These are my upcoming talks:
+
+<ul>
+<li> <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/masterclasses/year-12/">Year 12 Masterclass</a> - <a style= "font-style:italic;">Pattern detectives: Uncovering the symmetries of designs</a>, 28th of February, 2026.</li>
+</ul>
+
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 
 <!-- pages/projects.md -->
