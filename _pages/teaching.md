@@ -12,7 +12,7 @@ nav_order: 6
 **2025 - 2026**
 
 <ul>
-<li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a>
+<li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a>.</li>
 <li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
 <li> Coordinator of the <a style="font-weight:bold;"> third-year Algebra</a> <a style="font-weight:bold; font-style:italic;"> mathXchange</a>.</li>
 <li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of one group of first-year undergraduate joint-degree students.</li>
