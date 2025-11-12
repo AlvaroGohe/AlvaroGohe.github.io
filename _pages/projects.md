@@ -16,7 +16,7 @@ These are my upcoming talks:
 These are my upcoming talks:
 
 <ul>
-<li> <a style= "font-style:italic;">Generalised Kummer surfaces in positive characteristic</a>, <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/masterclasses/year-12/">Number Theory, Algebra and Geometry seminar of the University of Exeter</a>.  12th of November, 2025.
+<li> <a style= "font-style:italic;">Generalised Kummer surfaces in positive characteristic</a>, <a href="https://www.exeter.ac.uk/events/details/index.php?event=15273">Number Theory, Algebra and Geometry seminar of the University of Exeter</a>.  12th of November, 2025.
 </li>
 <li> <a style= "font-style:italic;">Pattern detectives: Uncovering the symmetries of designs</a>, <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/masterclasses/year-12/">Year 12 Masterclass</a>.  28th of February, 2026.</li>
 </ul>
