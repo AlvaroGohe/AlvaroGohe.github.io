@@ -36,7 +36,7 @@ Let's try a second map:
 **2024**
 
 <ul>
-<li><a style="font-weight:bold" href="https://www.ukagnetwork.org/past-activities/durham-september-2024">Conference of the UK Algebraic Geometry Network</a>, University of Durham, 11th - 12th September.</li>
+<li><a style="font-weight:bold">Conference of the UK Algebraic Geometry Network</a>, University of Durham, 11th - 12th September.</li>
 <li><a style="font-weight:bold" href="https://sites.google.com/view/danger4workshop">Data, Numbers, and Geometry (DANGER 4)</a>, London Institute of Mathematical Sciences (LIMS), 8th - 9th of August.</li>
 <li><a style="font-weight:bold" href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Oxford, 31st of July - 2nd of August.</li>
 <li><a style="font-weight:bold" href="https://www.icmat.es/es/actualidad/09-07-24-2/">Décimas Jornadas de Teoría de Números</a>, Centro Cultural La Corrala, 8th - 12th of July.</li>
@@ -48,7 +48,7 @@ Let's try a second map:
 **2023**
 
 <ul>
-<li><a style="font-weight:bold" href="https://www.ukagnetwork.org/past-activities/nottingham-september-2023">Inaugural Conference of the UK Algebraic Geometry Network</a>, University of Nottingham, 14th - 15th of September.</li>
+<li><a style="font-weight:bold">Inaugural Conference of the UK Algebraic Geometry Network</a>, University of Nottingham, 14th - 15th of September.</li>
 <li><a style="font-weight:bold" href="https://y-rant.github.io/historic/YRANT5/">Young Researchers in Algebraic Number Theory (Y-RANT)</a>, University of Cambridge, 6th - 8th of September.</li>
 <li><a style="font-weight:bold" href="https://quings-workshop.github.io/2023/">Queer in Number Theory and Geometry (QuINGs)</a>, West Lexham, 30th of August - 1st of September.</li>
 <li><a style="font-weight:bold" href="https://enem.anem.es/2023/">XXIV Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Extremadura, 24th - 29th of July.</li>
