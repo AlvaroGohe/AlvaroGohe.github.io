@@ -9,7 +9,7 @@ category: research
 related_publications: true
 ---
 
-I gave this talk when I was an invited speaker in the <a href="https://www.ucl.ac.uk/junior-geometry/">Junior Geometry Seminar</a> of King's College London and University College London on the 26th of February of 2024.
+I gave this talk when I was an invited speaker in the Junior Geometry Seminar of King's College London and University College London on the 26th of February of 2024.
 
 This talk is based on the first half of my paper **Explicit desingularisation of Kummer surfaces in characteristic two via specialisation** {% cite Gonzalez-Hernandez2024ExplicitDesingularisation %}.
 
