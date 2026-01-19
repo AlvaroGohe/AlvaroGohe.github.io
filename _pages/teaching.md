@@ -8,12 +8,10 @@ nav_order: 6
 ---
 
 **Current roles**
-
-**2025 - 2026**
+**2025 - 2026 (Term 2)**
 
 <ul>
-<li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a>.</li>
-<li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
+<li> Coordinator of the <a style="font-weight:bold;"> second-year Algebra</a> <a style="font-weight:bold; font-style:italic;"> mathXchange</a>.</li>
 <li> Coordinator of the <a style="font-weight:bold;"> third-year Algebra</a> <a style="font-weight:bold; font-style:italic;"> mathXchange</a>.</li>
 <li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of three groups of first-year Mathematics and Statistics students.</li>
 </ul>
@@ -23,6 +21,16 @@ nav_order: 6
 **Past roles**
 
 Here is an overview of the teaching roles I have had at Warwick:
+
+**2025 - 2026 (Term 1)**
+
+<ul>
+<li> Teaching assistant for <a style="font-weight:bold">MA3D5 - Galois Theory</a>.</li>
+<li> Teaching assistant for <a style="font-weight:bold">MA397 - Consolidation</a>.</li>
+<li> Coordinator of the <a style="font-weight:bold;"> third-year Algebra</a> <a style="font-weight:bold; font-style:italic;"> mathXchange</a>.</li>
+<li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of three groups of first-year Mathematics and Statistics students.</li>
+</ul>
+
 
 **2024 - 2025**
 
