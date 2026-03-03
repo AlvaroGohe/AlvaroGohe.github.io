@@ -31,7 +31,6 @@ Here is an overview of the teaching roles I have had at Warwick:
 <li> <a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general/support/supervisions/">Supervisor</a> of three groups of first-year Mathematics and Statistics students.</li>
 </ul>
 
-
 **2024 - 2025**
 
 <ul>

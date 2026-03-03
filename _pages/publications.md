@@ -9,7 +9,6 @@ nav_order: 2
 
 These are my publications and theses:
 
-
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
