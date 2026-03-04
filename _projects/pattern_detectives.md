@@ -6,7 +6,6 @@ img: assets/img/Pattern_detectives.png
 importance: -7
 date: 2026-02-28 21:01:00
 category: outreach
-related_publications: true
 ---
 
 This is a <a href="https://www.rigb.org/learning/ri-masterclasses"> Royal Institution Masterclass</a> that I gave for Year 12 students on the 28th of February, 2026. The Masterclass was about how to identify symmetries in everyday patterns. I also touched on the theory behind wallpaper groups and how they can be used to classify patterns.
