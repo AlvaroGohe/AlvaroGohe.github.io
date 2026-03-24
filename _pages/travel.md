@@ -20,7 +20,9 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 
 <ul>
 <li><a style="font-weight:bold" href="http://emiliano.ambrosi.perso.math.cnrs.fr/CAVARETpage/Cavaretmain.html">Curves, Abelian VArieties and RElated Topics 2 (CAVARET 2)</a>, Universitat de Barcelona, 13th - 17th of July.</li>
+<li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program/sp-f26">Computations on K3 Surfaces and Related Varieties</a>, ICERM, Brown University, 9th September - 11th December 2026.</li>
 </ul>
+
 
 **Past conferences:**
 

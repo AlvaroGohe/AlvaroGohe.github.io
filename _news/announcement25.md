@@ -5,4 +5,4 @@ inline: true # Change by false if you want a longer text
 related_posts: false
 ---
 
-I gave <a  href="https://alvarogohe.github.io/projects/pattern_detectives/">a masterclass for Year 12 students</a> about the symmetries of patterns :file_folder:
+I gave <a  href="https://alvarogohe.github.io/projects/pattern_detectives/">a Masterclass for Year 12 students</a> about the symmetries of patterns :file_folder:
