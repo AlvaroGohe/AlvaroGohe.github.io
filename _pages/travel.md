@@ -13,17 +13,15 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ncw7Nk53230Ksm88iNadywhDT4TyXOY&ehbc=2E312F&noprof=1" width='100%' height='600px'></iframe>
 </div>
 
-
 **Upcoming conferences:**
 
 **2026**
 
 <ul>
-<li><a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a>, University of Warwick, 7th  - 8th of May, 2026.</li>
+<li><a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a>, University of Warwick, 7th  - 8th of May, 2026.</li>
 <li><a style="font-weight:bold" href="http://emiliano.ambrosi.perso.math.cnrs.fr/CAVARETpage/Cavaretmain.html">Curves, Abelian VArieties and RElated Topics 2 (CAVARET 2)</a>, Universitat de Barcelona, 13th - 17th of July 2026.</li>
 <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program/sp-f26">Computations on K3 Surfaces and Related Varieties</a>, ICERM, Brown University, 9th of September - 11th of December 2026.</li>
 </ul>
-
 
 **Past conferences:**
 
@@ -90,7 +88,7 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 **2018**
 
 <ul>
-<li><a style="font-weight:bold" href="http://valenem.anemat.com/">XIX Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universitat de València, 23rd - 28th of July.</li>
+<li><a style="font-weight:bold" href="https://www.anem.es/web/que-es-el-enem/">XIX Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universitat de València, 23rd - 28th of July.</li>
 </ul>
 
 **2017**

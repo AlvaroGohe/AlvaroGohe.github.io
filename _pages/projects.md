@@ -9,15 +9,14 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-
 These are my upcoming talks:
+
 <ul>
 <li> <a style= "font-style:italic;">Matemáticas en español, ¿por qué no?
 </a>, at the <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a> at the University of Warwick, 8th of May, 2026.</li>
 </ul>
 <!--
 -->
-  
 
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.

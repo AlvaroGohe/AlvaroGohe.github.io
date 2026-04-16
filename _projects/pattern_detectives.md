@@ -22,7 +22,6 @@ These are the slides I used:
     </div>
 </div>
 
-
 Unlike other talks where it is mostly me speaking, this Masterclass was very interactive. The students worked in groups to solve some activities that I had prepared for them and discussed the solutions together.
 
 Here are some of the activities they worked on:
@@ -30,9 +29,3 @@ Here are some of the activities they worked on:
 <div style="padding-bottom: 100px; padding-top: 50px;">
 <iframe src="https://drive.google.com/file/d/1XhNQ392UHIA5zUsIusfqssQNK3jqhIbZ/preview" width="100%" height="600px" allow="autoplay"></iframe>
 </div>
-
-
-
-
-
-

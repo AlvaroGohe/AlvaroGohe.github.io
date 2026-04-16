@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: #
+subtitle: # npx prettier --write .
 
 profile:
   align: right
