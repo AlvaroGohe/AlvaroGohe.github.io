@@ -9,11 +9,13 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-<!--
+
 These are my upcoming talks:
 <ul>
-<li> <a style= "font-style:italic;">Constructing K3 surfaces as quotients of abelian surfaces</a>, <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/masterclasses/year-12/">Algebra and Number Theory seminar</a> of Queen Mary University of London, 27th of March, 2026.</li>
+<li> <a style= "font-style:italic;">Matemáticas en español, ¿por qué no?
+</a>, at the <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a> at the University of Warwick, 8th of May, 2026.</li>
 </ul>
+<!--
 -->
   
 
