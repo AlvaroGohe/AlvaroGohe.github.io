@@ -9,9 +9,9 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-<!-- npx prettier . --write -->>
 
 <!--
+npx prettier . --write
 These are my upcoming talks:
 
 <ul>

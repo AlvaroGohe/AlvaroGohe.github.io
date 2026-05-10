@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Pattern detectives, Uncovering the symmetries of designs
-description: Year 12 Masterclass
+title: Matemáticas en español, ¿por qué no?
+description: Diversity and Decolonisation in Mathematics and its Applications
 img: assets/img/matematicas_en_espanol.png
 importance: -10
 date: 2026-05-08 21:01:00
 category: outreach
 ---
 
-This is a talk that I gave at the <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference.</a> My goal was to raise awareness about the challenges that non-English speakers (especially Spanish speakers) face in the mathematical community.
+This is a talk that I gave at the <a href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a> at the University of Warwick. My goal was to raise awareness about the challenges that non-English speakers (especially Spanish speakers) face in the mathematical community.
 
 These are the slides I used:
 
