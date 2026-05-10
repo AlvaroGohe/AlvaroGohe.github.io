@@ -18,7 +18,6 @@ These are my upcoming talks:
 <!--
 -->
 
-
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 
 <!-- pages/projects.md -->
