@@ -39,4 +39,4 @@ I studied the MSc in Mathematical Sciences at the University of Oxford and the B
 
 My surname is **Gonzalez Hernandez** (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as **Gonzalez-Hernandez** for convenience.
 
-Outside of mathematics, I enjoy graphic design, cooking and doing yoga and BJJ.
+Outside of mathematics, I enjoy graphic design, cooking and doing yoga and Brazilian jiu-jitsu.

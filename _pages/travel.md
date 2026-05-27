@@ -25,6 +25,7 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 **Past conferences:**
 
 **2026**
+
 <ul>
 <li><a style="font-weight:bold" href="https://warwick.ac.uk/fac/sci/maths/general/outreach/diversity-decolonisation-conference-2026/">Diversity and Decolonisation in Mathematics and its Applications Conference</a>, University of Warwick, 7th  - 8th of May, 2026.</li>
 </ul>
