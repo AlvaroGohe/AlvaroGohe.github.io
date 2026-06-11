@@ -8,7 +8,7 @@ date: 2026-06-10 21:01:00
 category: professional development
 ---
 
-<li> <a style= "font-style:italic;">Teaching careers in Higher Education</a>, as part of the academic careers event for PhDs at the University of Warwick, 10th of June, 2026.</li>
+
 
 This is a talk that I gave at an academic careers event for PhD students at the University of Warwick. I was invited to speak about my career path and provide an overview of academic teaching positions, including the application process and pathways to securing these roles.
 

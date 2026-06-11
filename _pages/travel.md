@@ -88,7 +88,7 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 **2019**
 
 <ul>
-<li><a style="font-weight:bold" href="http://enemgranada.anemat.com/xx-enem-2019/">XX Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Granada, 22nd - 27th of July.</li>
+<li><a style="font-weight:bold" href="https://www.anem.es/web/que-es-el-enem/">XX Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Granada, 22nd - 27th of July.</li>
 <li><a style="font-weight:bold" href="https://www.icmat.es/es/actividades/escuela-jae/programa2019/">Escuela JAE de Matemáticas</a>, Instituto de Ciencias Matemáticas (ICMAT), 10th - 21st of June.</li>
 </ul>
 
@@ -101,5 +101,5 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 **2017**
 
 <ul>
-<li><a style="font-weight:bold" href="http://enemsevilla.anemat.com/">XVIII Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Sevilla, 24th - 29th of July.</li>
+<li><a style="font-weight:bold" href="https://www.anem.es/web/que-es-el-enem/">XVIII Encuentro Nacional de Estudiantes de Matemáticas (ENEM)</a>, Universidad de Sevilla, 24th - 29th of July.</li>
 </ul>

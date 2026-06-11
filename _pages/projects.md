@@ -5,7 +5,7 @@ permalink: /talks/
 description: #
 nav: true
 nav_order: 3
-display_categories: [research, study groups, outreach]
+display_categories: [research, study groups, outreach, professional development]
 horizontal: false
 ---
 
