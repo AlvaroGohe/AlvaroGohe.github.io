@@ -9,15 +9,14 @@ display_categories: [research, study groups, outreach]
 horizontal: false
 ---
 
-
 <!--
 npx prettier . --write
 
 -->
+
 These are my upcoming talks:
 
 <ul>
-<li> <a style= "font-style:italic;">Teaching careers in Higher Education</a>, as part of the academic careers event for PhDs at the University of Warwick, 10th of June, 2026.</li>
 <li> <a style= "font-style:italic;">How to give a maths talk
 </a>, as part of the <a href="https://warwick.ac.uk/services/skills/urss/">Undergraduate Research Support Scheme</a> of the University of Warwick, 29th of July, 2026.</li>
 </ul>
