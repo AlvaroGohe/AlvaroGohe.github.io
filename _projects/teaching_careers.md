@@ -8,8 +8,6 @@ date: 2026-06-10 21:01:00
 category: professional development
 ---
 
-
-
 This is a talk that I gave at an academic careers event for PhD students at the University of Warwick. I was invited to speak about my career path and provide an overview of academic teaching positions, including the application process and pathways to securing these roles.
 
 These are the slides I used:
