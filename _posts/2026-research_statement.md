@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is my research about?
-date: 2024-12-28 16:11:00-0400
+date: 2026-07-28 16:11:00-0400
 tags: pictures
 images:
   compare: true
