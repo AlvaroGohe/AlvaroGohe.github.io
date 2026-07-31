@@ -2,7 +2,6 @@
 layout: page
 permalink: /code/
 title: Code
-description: # Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 4
 ---
@@ -17,8 +16,7 @@ I try to keep updated all the coding that I do in my GitHub.
   {% endfor %}
 </div>
 {% endif %}
-<br>
-<br>
+
 
 These are some of my repositories:
 
