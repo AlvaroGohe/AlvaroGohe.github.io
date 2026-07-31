@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I have become a <a  href="https://www.advance-he.ac.uk/fellowship">Fellow of the Higher Education Academy.</a>
-

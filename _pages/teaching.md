@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I believe in the importance of mathematics in society, and I hope to share this conviction with my students. I am always trying to improve my teaching practice and be up to date with the latest developments in mathematical education. In particular, I am a <a  href="https://www.advance-he.ac.uk/fellowship">Fellow of the Higher Education Academy</a>.
+I am always trying to improve my teaching practice and be up to date with the latest developments in mathematical education. In particular, I am a <a  href="https://www.advance-he.ac.uk/fellowship">Fellow of the Higher Education Academy</a>.
 
 Here is an overview of the teaching roles I have had while working at the University of Warwick:
 

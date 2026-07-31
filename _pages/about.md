@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 <meta google-site-verification=Drv9VlgLtwHUs1lwpjfMLYrq60TahBaTiMjalRV9r8s>
 <meta name="google-site-verification" content="gxla9JshOLPC6DSHFhmvOQZ0kpvohSSlLJqp65GpQXg" />
 
-Hola! I am a Teaching Fellow at the <a href='https://warwick.ac.uk/fac/sci/maths/'>Mathematics Institute</a> of the University of Warwick. I also did my PhD at Warwick under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown</a>.
+Hola! I am a Teaching Fellow at the <a href='https://warwick.ac.uk/fac/sci/maths/'>Mathematics Institute</a> of the University of Warwick. Starting in September, I will be a postdoctoral researcher at the Institute for Computational and Experimental Research in Mathematics at Brown University, as part of the semester on <a href='https://icerm.brown.edu/program/semester_program/sp-f26'>Computations on K3 Surfaces and Related Varieties</a>.
 
 <!-- I am interested in algebraic geometry and number theory, particularly on the following topics: K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties. If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience. -->
 
@@ -28,14 +28,14 @@ I am interested in algebraic geometry and number theory, particularly on the fol
 
 <ul>
 <li> K3 surfaces and their arithmetic. </li>
-<li> Singularities in positive characteristic geometry. </li>
 <li> Generalised Kummer surfaces. </li>
 <li> Abelian varieties. </li>
+<li> Singularities in positive characteristic geometry. </li>
 </ul>
 
 If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience.
 
-I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain). I also spent a year at the University of Edinburgh as an exchange student during my undergraduate degree.
+I did my PhD at Warwick under the supervision of <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/damiano_testa/'> Dr Damiano Testa </a> and <a href='https://warwick.ac.uk/fac/sci/maths/people/staff/brown/'>Professor Gavin Brown</a>. I studied the MSc in Mathematical Sciences at the University of Oxford and the BSc in Mathematics at the Universidad de Salamanca (Spain). I also spent a year at the University of Edinburgh as an exchange student during my undergraduate degree.
 
 My surname is **Gonzalez Hernandez** (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as **Gonzalez-Hernandez** for convenience.
 

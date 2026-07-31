@@ -12,7 +12,7 @@ horizontal: false
 <!--
 npx prettier . --write
 
--->
+
 
 These are my upcoming talks:
 
@@ -20,6 +20,8 @@ These are my upcoming talks:
 <li> <a style= "font-style:italic;">How to give a maths talk
 </a>, as part of the <a href="https://warwick.ac.uk/services/skills/urss/">Undergraduate Research Support Scheme</a> of the University of Warwick, 29th of July, 2026.</li>
 </ul>
+
+-->
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 

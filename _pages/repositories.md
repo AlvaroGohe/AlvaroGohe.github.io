@@ -16,9 +16,10 @@ I try to keep updated all the coding that I do in my GitHub.
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
+{% endif %}
+<br>
+<br>
 
-<br>
-<br>
 These are some of my repositories:
 
 {% if site.data.repositories.github_repos %}
