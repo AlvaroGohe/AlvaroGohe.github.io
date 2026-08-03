@@ -10,9 +10,8 @@ images:
 
   <!-- ── Intro ── -->
   
-    My area of research is a field of pure mathematics known as <strong>algebraic geometry</strong>.
-    Specifically, I study a class of structures called <strong>algebraic surfaces</strong>, which are
-    two-dimensional geometric objects defined by polynomial equations.
+My area of research is a field of pure mathematics known as <strong>algebraic geometry</strong>.
+Specifically, I study a class of structures called <strong>algebraic surfaces</strong>, which are two-dimensional geometric objects defined by polynomial equations.
   
 
   <figure class="narrow">
@@ -23,20 +22,13 @@ images:
     </figcaption>
   </figure>
 <div style="max-width: 100%; height: auto;"></div>
-</div>
 
-  
-    As a geometer, I am interested in analysing which properties these surfaces share and which
-    properties allow us to tell them apart. For instance, there is a clear difference between the
-    sphere and the cone. While the surface of the sphere is smooth and uniform, the cone has a
-    pointy tip, which is what we call a <strong>singular point</strong>. Surfaces without singular
-    points, like the sphere, are called <strong>smooth surfaces</strong>, whereas those with singular
-    points, like the cone, are called <strong>singular surfaces</strong>.
+As a geometer, I am interested in analysing which properties these surfaces share and which   properties allow us to tell them apart. For instance, there is a clear difference between the   sphere and the cone. While the surface of the sphere is smooth and uniform, the cone has a pointy tip, which is what we call a <strong>singular point</strong>. Surfaces without singular points, like the sphere, are called <strong>smooth surfaces</strong>, whereas those with singular points, like the cone, are called <strong>singular surfaces</strong>.
   
 
   <!-- ── K3 & Kummer ── -->
   
-    I specialise in studying the singular points of a particular class of surfaces known as
+I specialise in studying the singular points of a particular class of surfaces known as
     <strong>K3 surfaces</strong>. These surfaces are of interest not only to mathematicians but also
     to physicists, as they play a key role in certain formulations of string
     theory.<sup class="cite"><a href="#ref1">[1]</a></sup> In particular, my research focuses on a
@@ -44,8 +36,7 @@ images:
     <strong>generalised Kummer surfaces</strong>.
   
 
-  
-    In general, finding surfaces with many singular points is a challenging problem. One fruitful
+In general, finding surfaces with many singular points is a challenging problem. One fruitful
     approach involves examining the possible symmetries of simpler surfaces. For example, consider
     the symmetry of the plane that rotates all points by an angle of 180° around a point.
   
@@ -57,7 +48,7 @@ images:
   </div>
 
   
-    If we identify the points in the plane that are related by this rotation, the resulting surface
+If we identify the points in the plane that are related by this rotation, the resulting surface
     is a cone, where the rotation's fixed point corresponds to the singular point.
   
 
@@ -70,7 +61,7 @@ images:
   </figure>
 
   
-    In this case, we say that the cone is the <strong>quotient</strong> of the plane by a 180°
+In this case, we say that the cone is the <strong>quotient</strong> of the plane by a 180°
     rotation. Similarly, the generalised Kummer surfaces I study are quotients of a class of
     surfaces called <strong>abelian surfaces</strong>.
   
@@ -86,42 +77,22 @@ images:
     <figure>
       <img src="/assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" />
     </figure>
-  </div>
-  <p class="fig-row-caption">
     Examples of generalised Kummer surfaces with 9, 10 and 16 singular points.
+  </div>
 
+How many singular points can a generalised Kummer surface have, and how intricate can they be?
 
-  <!-- ── Positive characteristic ── -->
-  
-    How many singular points can a generalised Kummer surface have, and how intricate can they be?
-    Since Kummer surfaces were first described in 1833, this question has attracted the attention of
-    many mathematicians. In 1987, Toshiyuki Katsura provided a classification of the number and
+Since Kummer surfaces were first described in 1833, this question has attracted the attention of many mathematicians. In 1987, Toshiyuki Katsura provided a classification of the number and
     types of singular points of generalised Kummer surfaces.<sup class="cite"><a href="#ref2">[2]</a></sup>
     However, Katsura's classification was incomplete: while it held for surfaces defined by
     polynomials with complex coefficients, it did not extend to a setting called
     <strong>positive characteristic</strong>.
   
-
+Positive characteristic geometry studies geometric objects defined over number systems in which arithmetic is performed modulo a fixed prime number $$p$$, for example, $$p = 2, 3, 5$$ or $$7$$. This is similar to clock arithmetic, where numbers "wrap around" after reaching $$12$$. In these number systems, the arithmetic is quite surprising — for instance, $$1 + 1 = 0$$ and $$(a+b)^2 = a^2 + b^2$$ when $$p = 2$$. This changes many geometric properties, often making    features of surfaces like singularities and symmetries behave in fundamentally different ways from the classical setting, which is known as <strong>characteristic zero</strong>.
   
-    Positive characteristic geometry studies geometric objects defined over number systems in which
-    arithmetic is performed modulo a fixed prime number $$p$$, for example, $$p = 2, 3, 5$$ or $$7$$.
-    This is similar to clock arithmetic, where numbers "wrap around" after reaching $$12$$. In these
-    number systems, the arithmetic is quite surprising — for instance, $$1 + 1 = 0$$ and
-    $$(a+b)^2 = a^2 + b^2$$ when $$p = 2$$. This changes many geometric properties, often making
-    features of surfaces like singularities and symmetries behave in fundamentally different ways
-    from the classical setting, which is known as <strong>characteristic zero</strong>.
+The most important result of my thesis is the complete classification of all possible singular points of generalised Kummer surfaces in positive characteristic. I originally proved this result under certain technical assumptions, but since I defended my thesis, I have managed to remove these conditions. I am currently preparing this result for publication, and it has already attracted interest from researchers in the field, who have inquired about the details of the proof.
   
 
-  
-    The most important result of my thesis is the complete classification of all possible singular
-    points of generalised Kummer surfaces in positive characteristic. I originally proved this
-    result under certain technical assumptions, but since I defended my thesis, I have managed to
-    remove these conditions. I am currently preparing this result for publication, and it has
-    already attracted interest from researchers in the field, who have inquired about the details
-    of the proof.
-  
-
-  <!-- ── Good reduction ── -->
   
     One reason researchers are interested in positive characteristic geometry is that many problems
     are simpler in this setting. This is because, unlike in characteristic zero — where surfaces

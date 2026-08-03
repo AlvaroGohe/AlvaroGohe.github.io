@@ -68,3 +68,15 @@ Here is an overview of the teaching roles I have had while working at the Univer
 Furthermore, I have privately tutored Mathematics courses from GCSE up to university level.
 
 To make support classes more interactive, I usually like to start my lessons by quizzing my students using the platform Kahoot! I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>, so have a look if you are interested.
+
+
+<div style="padding-top: 50px;">
+</div>
+
+# Supervision
+
+I have supervised projects for the following students:
+<ul>
+<li> <a style="font-weight:bold" >Samay Varjangbhay</a>, "Dedekind zeta functions of prime cyclotomic fields", Summer project as part of the Undergraduate Research Support Scheme. University of Warwick, 2026.
+<li> <a style="font-weight:bold" >Daniel Eggleton</a>, "Generalised Pell's equation", Third-year essay. University of Warwick, 2026.</li>
+</ul>
