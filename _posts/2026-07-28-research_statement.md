@@ -16,10 +16,10 @@ images:
   </p>
 
   <figure class="narrow">
-    <img src="assets/img/research_statement_pictures/Shapes.png" alt="The cylinder, the sphere and the cone" />
+    <img src="/assets/img/research_statement_pictures/Shapes.png" alt="The cylinder, the sphere and the cone" />
     <figcaption>
       The cylinder, the sphere and the cone are all algebraic surfaces as they can all be represented
-      as sets of points in space whose coordinates $(x,y,z)$ satisfy a polynomial equation.
+      as sets of points in space whose coordinates $$(x,y,z)$$ satisfy a polynomial equation.
     </figcaption>
   </figure>
 
@@ -49,7 +49,7 @@ images:
   </p>
 
   <figure class="full">
-    <img src="assets/img/research_statement_pictures/Carp_diagram.png" alt="180° rotation of the plane" />
+    <img src="/assets/img/research_statement_pictures/Carp_diagram.png" alt="180° rotation of the plane" />
   </figure>
 
   <p>
@@ -58,7 +58,7 @@ images:
   </p>
 
   <figure class="full">
-    <img src="assets/img/research_statement_pictures/Cone_carp.png" alt="Cone as a quotient of the plane" />
+    <img src="/assets/img/research_statement_pictures/Cone_carp.png" alt="Cone as a quotient of the plane" />
     <figcaption>
       This can be demonstrated by cutting a slit in a piece of paper and folding it to bring each
       pair of symmetric points together.
@@ -74,13 +74,13 @@ images:
   <!-- Three Kummer surface images -->
   <div class="fig-row">
     <figure>
-      <img src="assets/img/research_statement_pictures/Kmm3c.png" alt="Generalised Kummer surface with 9 singular points" />
+      <img src="/assets/img/research_statement_pictures/Kmm3c.png" alt="Generalised Kummer surface with 9 singular points" />
     </figure>
     <figure>
-      <img src="assets/img/research_statement_pictures/Kmm4c.png" alt="Generalised Kummer surface with 10 singular points" />
+      <img src="/assets/img/research_statement_pictures/Kmm4c.png" alt="Generalised Kummer surface with 10 singular points" />
     </figure>
     <figure>
-      <img src="assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" />
+      <img src="/assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" />
     </figure>
   </div>
   <p class="fig-row-caption">
@@ -100,10 +100,10 @@ images:
 
   <p>
     Positive characteristic geometry studies geometric objects defined over number systems in which
-    arithmetic is performed modulo a fixed prime number $p$, for example, $p = 2, 3, 5$ or $7$.
-    This is similar to clock arithmetic, where numbers "wrap around" after reaching $12$. In these
-    number systems, the arithmetic is quite surprising — for instance, $1 + 1 = 0$ and
-    $(a+b)^2 = a^2 + b^2$ when $p = 2$. This changes many geometric properties, often making
+    arithmetic is performed modulo a fixed prime number $$p$$, for example, $$p = 2, 3, 5$$ or $$7$$.
+    This is similar to clock arithmetic, where numbers "wrap around" after reaching $$12$$. In these
+    number systems, the arithmetic is quite surprising — for instance, $$1 + 1 = 0$$ and
+    $$(a+b)^2 = a^2 + b^2$$ when $$p = 2$$. This changes many geometric properties, often making
     features of surfaces like singularities and symmetries behave in fundamentally different ways
     from the classical setting, which is known as <strong>characteristic zero</strong>.
   </p>
@@ -127,22 +127,22 @@ images:
   </p>
 
   <p>
-    Given a smooth surface $S$ in characteristic zero, there is a process called
-    <strong>reduction modulo $\mathfrak{p}$</strong> that produces a surface $S_\mathfrak{p}$ in
-    positive characteristic. If $S_\mathfrak{p}$ is also smooth, we say that the surface has
-    <strong>good reduction at $\mathfrak{p}$</strong>. Here, the letter $\mathfrak{p}$ stands for
+    Given a smooth surface $$S$$ in characteristic zero, there is a process called
+    <strong>reduction modulo $$\mathfrak{p}$$</strong> that produces a surface $$S_\mathfrak{p}$$ in
+    positive characteristic. If $$S_\mathfrak{p}$$ is also smooth, we say that the surface has
+    <strong>good reduction at $$\mathfrak{p}$$</strong>. Here, the letter $$\mathfrak{p}$$ stands for
     prime, because the possible ways of constructing these reductions are naturally associated with
-    prime numbers. If $S$ has good reduction, then $S$ and $S_\mathfrak{p}$ share similar geometric
+    prime numbers. If $$S$$ has good reduction, then $$S$$ and $$S_\mathfrak{p}$$ share similar geometric
     features, so this provides an additional perspective for understanding surfaces in characteristic
     zero.
   </p>
 
   <figure class="full">
-    <img src="assets/img/research_statement_pictures/Good_reduction.png"
+    <img src="/assets/img/research_statement_pictures/Good_reduction.png"
          alt="Good and bad reduction at various primes" />
     <figcaption>
-      In this example, the surface has good reduction at $\mathfrak{p} = 2, 3$ and $7$, and bad
-      reduction at $\mathfrak{p} = 5$.
+      In this example, the surface has good reduction at $$\mathfrak{p} = 2, 3$$ and $$7$$, and bad
+      reduction at $$\mathfrak{p} = 5$$.
     </figcaption>
   </figure>
 
@@ -171,7 +171,7 @@ images:
   </p>
 
   <figure class="full">
-    <img src="assets/img/research_statement_pictures/Triangles.png" alt="Moduli space of triangles" />
+    <img src="/assets/img/research_statement_pictures/Triangles.png" alt="Moduli space of triangles" />
     <figcaption>
       The moduli space parametrising all triangles whose perimeter is one is, maybe surprisingly,
       also a triangle. Any family of triangles where the lengths of the sides vary continuously
@@ -221,7 +221,7 @@ images:
         arXiv:<a href="https://arxiv.org/abs/hep-th/9611137" target="_blank">hep-th/9611137</a>.
       </li>
       <li id="ref2">
-        T. Katsura, "Generalized Kummer surfaces and their unirationality in characteristic $p$,"
+        T. Katsura, "Generalized Kummer surfaces and their unirationality in characteristic $$p$$,"
         <em>Journal of the Faculty of Science of the University of Tokyo, Sect. IA, Math.</em>,
         vol. 34, pp. 1–41, 1987.
       </li>
@@ -237,7 +237,7 @@ images:
       </li>
       <li id="ref5">
         A. Gonzalez-Hernandez, "Intersections of the automorphism and the Ekedahl–Oort strata
-        in $M_2$," <em>arXiv</em>, 2025.
+        in $$M_2$$," <em>arXiv</em>, 2025.
         <a href="https://arxiv.org/abs/2507.07278" target="_blank">arXiv:2507.07278</a>.
       </li>
       <li id="ref6">
@@ -248,7 +248,3 @@ images:
     </ol>
   </div>
 
-
-</div><!-- /.page -->
-</body>
-</html>
