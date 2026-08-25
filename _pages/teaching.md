@@ -77,6 +77,6 @@ To make support classes more interactive, I usually like to start my lessons by 
 
 I have supervised projects for the following students:
 <ul>
-<li> <a style="font-weight:bold" >Samay Varjangbhay</a>, "Dedekind zeta functions of prime cyclotomic fields", Summer project as part of the Undergraduate Research Support Scheme. University of Warwick, 2026.
+<li> <a style="font-weight:bold" >Samay Varjangbhay</a>, "Dedekind zeta functions of prime cyclotomic fields", Summer project as part of the Undergraduate Research Support Scheme. University of Warwick, 2026.</li>
 <li> <a style="font-weight:bold" >Daniel Eggleton</a>, "Generalised Pell's equation", Third-year essay. University of Warwick, 2026.</li>
 </ul>
