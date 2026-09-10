@@ -6,9 +6,10 @@ img: assets/img/Crazy_for_3.png
 importance: -5
 date: 2025-09-04 15:01:00
 category: research
+related_publications: true
 ---
 
-I gave this talk in the conference <a href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a> on the 4th of September 2025, at the University of Nottingham.
+I gave this talk in the conference <a href="https://y-rant.github.io/">Young Researchers in Algebraic Number Theory (Y-RANT)</a> on the 4th of September 2025, at the University of Nottingham. This talk is based on the last section of my paper **The classification of generalised Kummer surfaces in positive characteristic** {% cite Gonzalez-Hernandez2026ClassificationGeneralisedKummer %}.
 
 <div style="padding-bottom: 100px; padding-top: 50px;">
    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;

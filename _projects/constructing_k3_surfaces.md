@@ -6,9 +6,10 @@ img: assets/img/Constructing_K3_surfaces.png
 importance: -4
 date: 2025-05-20 15:01:00
 category: research
+related_publications: true
 ---
 
-I gave this talk at the <a href="https://sites.google.com/view/juniornumbertheory2425/home">London Junior Number Theory Seminar</a> on the 20th of May 2025. Some of the topics I talked about are similar to those in my talk <a href="https://alvarogohe.github.io/projects/crazy_for_three/">Crazy for three: K3 quotients of abelian surfaces by a group of order three in characteristic three</a>.
+I gave this talk at the <a href="https://sites.google.com/view/juniornumbertheory2425/home">London Junior Number Theory Seminar</a> on the 20th of May 2025. Some of the topics I talked about are similar to those in my talk <a href="https://alvarogohe.github.io/projects/crazy_for_three/">Crazy for three: K3 quotients of abelian surfaces by a group of order three in characteristic three</a>. In essence, I would say it was a summary of the work I did on my thesis {% cite PhDThesis %}.
 
 After the talk, we watched the film The French Dispatch (which I would honestly recommend over any talk on K3 surfaces).
 

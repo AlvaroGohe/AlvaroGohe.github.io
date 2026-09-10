@@ -13,7 +13,7 @@ I gave this talk at the <a href="https://math.univ-lille.fr/detail-event/alvaro-
 
 I also gave a similar talk with a less negative focus on positive characteristic at the <a href="https://www.qmul.ac.uk/maths/research/seminars/algebra-and-number-theory-seminar/">Algebra and Number Theory seminar</a> of Queen Mary University of London on the 27th of March 2026.
 
-These talks are based on the second and third sections of my thesis **K3 quotients of abelian surfaces in positive characteristic** {% cite PhDThesis %}.
+These talks are based on the second and third sections of my thesis **K3 quotients of abelian surfaces in positive characteristic** {% cite PhDThesis %} and on my paper **The classification of generalised Kummer surfaces in positive characteristic** {% cite Gonzalez-Hernandez2026ClassificationGeneralisedKummer %}.
 
 <div style="padding-bottom: 100px; padding-top: 50px;">
 </div>

@@ -228,14 +228,39 @@
             "name": "{{ author_name }}"
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-        "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
+        "@context": "https://schema.org",
+        "@type": "{% if is_blog_post %}BlogPosting{% else %}Person{% endif %}",
         "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
         "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
         {% if sameaslinks != blank %}
         "sameAs": {{ sameaslinks }},
         {% endif %}
         "name": "{{ author_name }}",
-        "@context": "https://schema.org"
-    }
+        "image": "https://AlvaroGohe.github.io/assets/img/department-picture.jpg",
+        "@context": "https://schema.org",
+        "jobTitle": "Postdoctoral Researcher",
+        "worksFor": {
+          "@type": "CollegeOrUniversity",
+          "name": "ICERM, Brown University",
+          "url": "https://icerm.brown.edu/"
+        },
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Warwick",
+          "url": "https://warwick.ac.uk/"
+        },
+        "knowsAbout": [
+          {
+            "@type": "DefinedTerm",
+            "name": "Algebraic Geometry",
+            "sameAs": "https://www.wikidata.org/wiki/Q180969"
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Number Theory",
+            "sameAs": "https://www.wikidata.org/wiki/Q12479"
+          }
+        ]
+      }
   </script>
 {% endif %}
