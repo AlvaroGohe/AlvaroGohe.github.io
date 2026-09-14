@@ -15,11 +15,10 @@ Specifically, I study a class of structures called <strong>algebraic surfaces</s
 
 <figure class="full">
   <img src="/assets/img/research_statement_pictures/Shapes.png" alt="The cylinder, the sphere and the cone" style="width:100%" />
-  <figcaption>
-    The cylinder, the sphere and the cone are all algebraic surfaces as they can all be represented
-    as sets of points in space whose coordinates $$(x,y,z)$$ satisfy a polynomial equation.
-  </figcaption>
 </figure>
+
+<em>The cylinder, the sphere and the cone are all algebraic surfaces as they can all be represented as sets of points in space whose coordinates $$(x,y,z)$$ satisfy a polynomial equation.</em>
+
 
 As a geometer, I am interested in analysing which properties these surfaces share and which properties allow us to tell them apart. For instance, there is a clear difference between the sphere and the cone. While the surface of the sphere is smooth and uniform, the cone has a pointy tip, which is what we call a <strong>singular point</strong>. Surfaces without singular points, like the sphere, are called <strong>smooth surfaces</strong>, whereas those with singular points, like the cone, are called <strong>singular surfaces</strong>.
 
@@ -66,8 +65,9 @@ surfaces called <strong>abelian surfaces</strong>.
   <figure>
     <img src="/assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" style="width:100%" />
   </figure>
-  Examples of generalised Kummer surfaces with 9, 10 and 16 singular points.
 </div>
+
+<em> Examples of generalised Kummer surfaces with 9, 10 and 16 singular points.</em>
 
 How many singular points can a generalised Kummer surface have, and how intricate can they be?
 
@@ -79,7 +79,7 @@ polynomials with complex coefficients, it did not extend to a setting called
 
 Positive characteristic geometry studies geometric objects defined over number systems in which arithmetic is performed modulo a fixed prime number $$p$$, for example, $$p = 2, 3, 5$$ or $$7$$. This is similar to clock arithmetic, where numbers "wrap around" after reaching $$12$$. In these number systems, the arithmetic is quite surprising — for instance, $$1 + 1 = 0$$ and $$(a+b)^2 = a^2 + b^2$$ when $$p = 2$$. This changes many geometric properties, often making features of surfaces like singularities and symmetries behave in fundamentally different ways from the classical setting, which is known as <strong>characteristic zero</strong>.
 
-The most important result of my thesis is the complete classification of all possible singular points of generalised Kummer surfaces in positive characteristic. I originally proved this result under certain technical assumptions, but since I defended my thesis, I have managed to remove these conditions. I am currently preparing this result for publication, and it has already attracted interest from researchers in the field, who have inquired about the details of the proof.
+Sergey Rybakov recently made progress in the classification in positive characteristic, complete classification of all possible singular points of generalised Kummer surfaces in positive characteristic.
 
 One reason researchers are interested in positive characteristic geometry is that many problems
 are simpler in this setting. This is because, unlike in characteristic zero — where surfaces
@@ -99,11 +99,8 @@ zero.
 <figure class="full">
   <img src="/assets/img/research_statement_pictures/Good_reduction.png"
        alt="Good and bad reduction at various primes" style="width:100%" />
-  <figcaption>
-    In this example, the surface has good reduction at $$\mathfrak{p} = 2, 3$$ and $$7$$, and bad
-    reduction at $$\mathfrak{p} = 5$$.
-  </figcaption>
 </figure>
+<em> In this example, the surface has good reduction at $$\mathfrak{p} = 2, 3$$ and $$7$$, and bad reduction at $$\mathfrak{p} = 5$$.</em>
 
 If a surface has good reduction at all primes, it is said to have
 <strong>everywhere good reduction</strong>. These surfaces are extremely rare, and the few
@@ -116,8 +113,6 @@ surfaces with everywhere good reduction whose equations have rational
 coefficients.<sup class="cite"><a href="#ref4">[4]</a></sup> To obtain these examples, I had to
 develop new techniques to analyse the reduction of K3 surfaces and employ computational methods
 to implement them.
-
-<!-- ── Moduli spaces ── -->
 
 During my PhD, I have also made contributions to the understanding of a class of geometric
 structures known as <strong>moduli spaces</strong>. Informally, these can be understood as
@@ -160,6 +155,7 @@ quantum computers. One of these protocols involving elliptic curves, called Supe
 Isogeny Diffie–Hellman (SIDH), was considered secure until 2022, when Castryck and Decru
 described an attack that exploits abelian and Kummer surfaces in positive characteristic to
 recover encoded information.<sup class="cite"><a href="#ref6">[6]</a></sup>
+
 
 <!-- ── References ── -->
 <div class="references">

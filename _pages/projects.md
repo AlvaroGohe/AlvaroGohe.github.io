@@ -11,17 +11,17 @@ horizontal: false
 
 <!--
 npx prettier . --write
-
+-->
 
 
 These are my upcoming talks:
 
 <ul>
-<li> <a style= "font-style:italic;">How to give a maths talk
-</a>, as part of the <a href="https://warwick.ac.uk/services/skills/urss/">Undergraduate Research Support Scheme</a> of the University of Warwick, 29th of July, 2026.</li>
+<li> <a style= "font-style:italic;">Generalised Kummer surfaces of Jacobians of genus two curves,
+</a> as part of the conference <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-opener">Arithmetic, Geometry and Computations on K3 surfaces</a> at ICERM, September 15, 2026.</li>
 </ul>
 
--->
+
 
 These are some of my past talks. And <a href="https://alvarogohe.github.io/blog/2024/pictures_talks/">here</a> are some pictures that my friends took of me while I was giving these talks.
 

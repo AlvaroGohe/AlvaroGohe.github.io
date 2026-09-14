@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 <meta google-site-verification=Drv9VlgLtwHUs1lwpjfMLYrq60TahBaTiMjalRV9r8s>
 <meta name="google-site-verification" content="gxla9JshOLPC6DSHFhmvOQZ0kpvohSSlLJqp65GpQXg" />
 
- I am a researcher at the Institute for Computational and Experimental Research in Mathematics (ICERM) at Brown University, as part of the semester on <a href='https://icerm.brown.edu/program/semester_program/sp-f26'>Computations on K3 Surfaces and Related Varieties</a>.
+ I am a Research Fellow at the Institute for Computational and Experimental Research in Mathematics (ICERM) at Brown University, as part of the semester on <a href='https://icerm.brown.edu/program/semester_program/sp-f26'>Computations on K3 Surfaces and Related Varieties</a>.
 
 <!-- I am interested in algebraic geometry and number theory, particularly on the following topics: K3 surfaces and their arithmetic, singularities in positive characteristic, generalised Kummer surfaces, and abelian varieties. If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience. -->
 
@@ -39,4 +39,4 @@ I used to be a Teaching Fellow at the <a href='https://warwick.ac.uk/fac/sci/mat
 
 My surname is **Gonzalez Hernandez** (<a href='https://en.wikipedia.org/wiki/Spanish_naming_customs'>yes, both words are my surname!</a>) but I publish as **Gonzalez-Hernandez** for convenience.
 
-Outside of mathematics, I enjoy graphic design, cooking and doing yoga and Brazilian jiu-jitsu.
+Outside of mathematics, I enjoy graphic design, cooking, and doing yoga and Brazilian jiu-jitsu.
