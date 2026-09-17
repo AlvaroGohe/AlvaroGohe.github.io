@@ -17,7 +17,6 @@ I try to keep updated all the coding that I do in my GitHub.
 </div>
 {% endif %}
 
-
 These are some of my repositories:
 
 {% if site.data.repositories.github_repos %}
@@ -39,4 +38,3 @@ These are some of my repositories:
     I also made this website (with <a href="https://github.com/alshedivat/al-folio/tree/main">some help</a>)!
 </div>
 </div>
-

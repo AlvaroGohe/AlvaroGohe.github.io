@@ -19,7 +19,6 @@ Specifically, I study a class of structures called <strong>algebraic surfaces</s
 
 <em>The cylinder, the sphere and the cone are all algebraic surfaces as they can all be represented as sets of points in space whose coordinates $$(x,y,z)$$ satisfy a polynomial equation.</em>
 
-
 As a geometer, I am interested in analysing which properties these surfaces share and which properties allow us to tell them apart. For instance, there is a clear difference between the sphere and the cone. While the surface of the sphere is smooth and uniform, the cone has a pointy tip, which is what we call a <strong>singular point</strong>. Surfaces without singular points, like the sphere, are called <strong>smooth surfaces</strong>, whereas those with singular points, like the cone, are called <strong>singular surfaces</strong>.
 
 <!-- ── K3 & Kummer ── -->
@@ -155,7 +154,6 @@ quantum computers. One of these protocols involving elliptic curves, called Supe
 Isogeny Diffie–Hellman (SIDH), was considered secure until 2022, when Castryck and Decru
 described an attack that exploits abelian and Kummer surfaces in positive characteristic to
 recover encoded information.<sup class="cite"><a href="#ref6">[6]</a></sup>
-
 
 <!-- ── References ── -->
 <div class="references">
