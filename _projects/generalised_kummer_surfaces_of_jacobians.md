@@ -9,7 +9,7 @@ category: research
 related_publications: true
 ---
 
-I gave this talk as part of the conference <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-opener">Arithmetic, Geometry and Computations on K3 surfaces</a> at ICERM, September 15, 2026.</li> It is based on upcoming work which contains some of the results from chapter 6 of my thesis {% cite PhDThesis %}.
+I gave this talk as part of the conference <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-opener">Arithmetic, Geometry and Computations on K3 surfaces</a> at ICERM, September 15, 2026. It is based on upcoming work which contains some of the results from chapter 6 of my thesis {% cite PhDThesis %}.
 
 <div style="padding-bottom: 100px; padding-top: 50px;">
     <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
