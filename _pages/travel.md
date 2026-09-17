@@ -24,7 +24,7 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
       <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w1">Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics</a>, 28th of September - 2nd of October 2026.</li>
       <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_research_cluster/sp-f26-rc1">K3 Surfaces over Finite Fields</a>, 19th - 23rd of October 2026.</li>
       <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w2">Cubic Fourfolds, Gushel-Mukai Fourfolds, and Hyperkahler Manifolds</a>, 26th - 30th of October 2026.</li>
-      <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w3">Moduli of K3 surfaces</a>, 9th - 13th of October 2026.</li>
+      <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w3">Moduli of K3 surfaces</a>, 9th - 13th of November 2026.</li>
     </ul>
 </li>
 </ul>
