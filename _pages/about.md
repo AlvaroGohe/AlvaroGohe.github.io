@@ -9,7 +9,8 @@ profile:
   image: department-picture.jpg # My photo. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
   image_circular: true # crops the image to make it circular
-  more_info: <p class="centered"> This is me!</p>
+  more_info:
+    <p class="centered"> This is me!</p>
     # My pronouns are he/him.
 
 news: true # includes a list of news items
@@ -27,10 +28,9 @@ I am a Research Fellow at the Institute for Computational and Experimental Resea
 I am interested in algebraic geometry and number theory, particularly on the following topics:
 
 <ul>
-<li> K3 surfaces and their arithmetic. </li>
-<li> Generalised Kummer surfaces. </li>
-<li> Abelian varieties. </li>
-<li> Singularities in positive characteristic geometry. </li>
+<li> K3 surfaces, abelian varieties and their arithmetic. </li>
+<li> Local-to-global principles and the Brauer-Manin obstruction. </li>
+<li> Positive characteristic geometry. </li>
 </ul>
 
 If none of these words make sense to you, you can watch <a href="https://alvarogohe.github.io/projects/how_to_blow_up_a_surface"> this three-minute talk</a> where I explain what I do to a general audience.
