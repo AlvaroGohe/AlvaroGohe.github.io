@@ -14,7 +14,7 @@ My area of research is a field of pure mathematics known as <strong>algebraic ge
 Specifically, I study a class of structures called <strong>algebraic surfaces</strong>, which are two-dimensional geometric objects defined by polynomial equations.
 
 <figure class="full">
-  <img src="/assets/img/research_statement_pictures/Shapes.png" alt="The cylinder, the sphere and the cone" style="width:100%" />
+  <img src="/assets/img/research_statement_pictures/Shapes.png" alt="The cylinder, the sphere and the cone" style="width:100%; background:#fff;" />
 </figure>
 
 <em>The cylinder, the sphere and the cone are all algebraic surfaces as they can all be represented as sets of points in space whose coordinates $$(x,y,z)$$ satisfy a polynomial equation.</em>
@@ -35,14 +35,14 @@ approach involves examining the possible symmetries of simpler surfaces. For exa
 the symmetry of the plane that rotates all points by an angle of 180° around a point.
 
 <figure class="full">
-  <img src="/assets/img/research_statement_pictures/Carp_diagram.png" alt="180° rotation of the plane" style="width:100%" />
+  <img src="/assets/img/research_statement_pictures/Carp_diagram.png" alt="180° rotation of the plane" style="width:100%; background:#fff;" />
 </figure>
 
 If we identify the points in the plane that are related by this rotation, the resulting surface
 is a cone, where the rotation's fixed point corresponds to the singular point.
 
 <figure class="full">
-  <img src="/assets/img/research_statement_pictures/Cone_carp.png" alt="Cone as a quotient of the plane" style="width:100%" />
+  <img src="/assets/img/research_statement_pictures/Cone_carp.png" alt="Cone as a quotient of the plane" style="width:100%; background:#fff;" />
   <figcaption>
     This can be demonstrated by cutting a slit in a piece of paper and folding it to bring each
     pair of symmetric points together.
@@ -54,15 +54,15 @@ rotation. Similarly, the generalised Kummer surfaces I study are quotients of a 
 surfaces called <strong>abelian surfaces</strong>.
 
 <!-- Three Kummer surface images -->
-<div class="fig-row" style="width:100%;">
-  <figure>
-    <img src="/assets/img/research_statement_pictures/Kmm3c.png" alt="Generalised Kummer surface with 9 singular points" style="width:100%" />
+<div class="fig-row" style="display:flex; gap:1rem; width:100%; align-items:center;">
+  <figure style="flex:1; min-width:0; margin:0;">
+    <img src="/assets/img/research_statement_pictures/Kmm3c.png" alt="Generalised Kummer surface with 9 singular points" style="width:100%; background:#fff;" />
   </figure>
-  <figure>
-    <img src="/assets/img/research_statement_pictures/Kmm4c.png" alt="Generalised Kummer surface with 10 singular points" style="width:100%" />
+  <figure style="flex:1; min-width:0; margin:0;">
+    <img src="/assets/img/research_statement_pictures/Kmm4c.png" alt="Generalised Kummer surface with 10 singular points" style="width:100%; background:#fff;" />
   </figure>
-  <figure>
-    <img src="/assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" style="width:100%" />
+  <figure style="flex:1; min-width:0; margin:0;">
+    <img src="/assets/img/research_statement_pictures/Kmm2c.png" alt="Generalised Kummer surface with 16 singular points" style="width:100%; background:#fff;" />
   </figure>
 </div>
 
@@ -97,7 +97,7 @@ zero.
 
 <figure class="full">
   <img src="/assets/img/research_statement_pictures/Good_reduction.png"
-       alt="Good and bad reduction at various primes" style="width:100%" />
+       alt="Good and bad reduction at various primes" style="width:100%; background:#fff;" />
 </figure>
 <em> In this example, the surface has good reduction at $$\mathfrak{p} = 2, 3$$ and $$7$$, and bad reduction at $$\mathfrak{p} = 5$$.</em>
 
@@ -121,7 +121,7 @@ a geometric structure whose points correspond to objects in the collection, arra
 similar objects are represented by nearby points.
 
 <figure class="full">
-  <img src="/assets/img/research_statement_pictures/Triangles.png" alt="Moduli space of triangles" style="width:100%" />
+  <img src="/assets/img/research_statement_pictures/Triangles.png" alt="Moduli space of triangles" style="width:100%; background:#fff;" />
   <figcaption>
     The moduli space parametrising all triangles whose perimeter is one is, maybe surprisingly,
     also a triangle. Any family of triangles where the lengths of the sides vary continuously

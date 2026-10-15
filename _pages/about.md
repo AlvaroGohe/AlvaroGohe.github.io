@@ -10,7 +10,7 @@ profile:
 
   image_circular: true # crops the image to make it circular
   more_info:
-    <p class="centered"> This is me!</p>
+    <div class="text-center">This is me!</div>
     # My pronouns are he/him.
 
 news: true # includes a list of news items

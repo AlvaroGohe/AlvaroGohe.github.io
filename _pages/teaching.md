@@ -11,11 +11,12 @@ I am always trying to improve my teaching practice and be up to date with the la
 
 To make support classes more interactive, I usually like to start my lessons by quizzing my students using the platform Kahoot! I <a href="https://alvarogohe.github.io/projects/a_game-based_learning_intervention_for_support_classes_in_mathematics/">talked</a> about my experience applying this game-based intervention in the <a  href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference 2023: Empowering students and staff through small teaching</a>, so have a look if you are interested.
 
-# Teaching roles
+## Teaching roles
+{: .mt-5}
 
 Here is an overview of the teaching roles I have had while working at the University of Warwick:
 
-## Postdoctoral Teaching Fellow
+### Postdoctoral Teaching Fellow
 
 **2025–2026**
 
@@ -45,7 +46,7 @@ Here is an overview of the teaching roles I have had while working at the Univer
 </li>
 </ul>
 
-## Graduate Teaching Assistant
+### Graduate Teaching Assistant
 
 **2024–2025**
 
@@ -59,7 +60,7 @@ Here is an overview of the teaching roles I have had while working at the Univer
 </li>
 </ul>
 
-**2023–2024**
+ **2023–2024**
 
 <ul>
 <li> Teaching assistant for <strong>MA397 - Consolidation</strong>.</li>
@@ -111,7 +112,8 @@ Here is an overview of the teaching roles I have had while working at the Univer
 
 Furthermore, I have privately tutored Mathematics courses from GCSE up to university level.
 
-# Supervision
+## Supervision
+{: .mt-5}
 
 I have supervised projects for the following students:
 
