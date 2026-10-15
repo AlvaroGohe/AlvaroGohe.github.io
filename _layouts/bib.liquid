@@ -247,6 +247,11 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% comment %} Talks whose pages cite this entry {% endcomment %}
+      {% assign entry_talks = site.projects | where_exp: 'p', 'p.redirect == nil' | where_exp: 'p', 'p.content contains entry.key' | sort: 'date' | reverse %}
+      {% if entry_talks.size > 0 %}
+        <a class="talks btn btn-sm z-depth-0" role="button">Talks</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -327,6 +332,19 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry_talks.size > 0 %}
+      <!-- Hidden talks block -->
+      <div class="talks hidden">
+        <ul>
+          {% for talk in entry_talks %}
+            <li>
+              <a href="{{ talk.url | relative_url }}">{{ talk.title }}</a>, {{ talk.description }} ({{ talk.date | date: '%B %Y' }})
+            </li>
+          {% endfor %}
+        </ul>
       </div>
     {% endif %}
 

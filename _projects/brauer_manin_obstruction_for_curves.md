@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brauer-Manin obstruction for curves
-description: Study group on Brauer-Manin obstructions
+description: Study group on the Brauer-Manin obstruction
 img: assets/img/Brauer_manin_obstruction_for_curves.png
 importance: -14
 date: 2026-10-13 18:01:00
