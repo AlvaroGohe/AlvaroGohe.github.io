@@ -248,7 +248,12 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
       {% comment %} Talks whose pages cite this entry {% endcomment %}
-      {% assign entry_talks = site.projects | where_exp: 'p', 'p.redirect == nil' | where_exp: 'p', 'p.content contains entry.key' | sort: 'date' | reverse %}
+      {% assign entry_talks = site.projects
+        | where_exp: 'p', 'p.redirect == nil'
+        | where_exp: 'p', 'p.content contains entry.key'
+        | sort: 'date'
+        | reverse
+      %}
       {% if entry_talks.size > 0 %}
         <a class="talks btn btn-sm z-depth-0" role="button">Talks</a>
       {% endif %}
