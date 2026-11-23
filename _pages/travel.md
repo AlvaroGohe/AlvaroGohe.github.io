@@ -20,7 +20,6 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 <ul>
 <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program/sp-f26">Computations on K3 Surfaces and Related Varieties</a>, ICERM, Brown University, 9th of September - 11th of December 2026.
 </li>
-<li><a style="font-weight:bold" href="https://sites.google.com/site/agneshomepage/brown-2026">Algebraic Geometry Northeastern Series (AGNES)</a>, Brown University, 20th - 22nd of November 2026.</li>
 <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/hot_topics_workshop/htw-26-aia">AI-assisted coding for Mathematical Exploration</a>, ICERM, Brown University, 11th - 13th of December 2026.</li>
 </ul>
 
@@ -31,6 +30,8 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
 **2026**
 
 <ul>
+<li><a style="font-weight:bold" href="https://sites.google.com/site/agneshomepage/brown-2026">Algebraic Geometry Northeastern Series (AGNES)</a>, Brown University, 20th - 22nd of November 2026.</li>
+
 <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program/sp-f26">Computations on K3 Surfaces and Related Varieties</a>, ICERM, Brown University, 9th of September - 11th of December 2026.
     <ul>  
       <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w3">Moduli of K3 surfaces</a>, 9th - 13th of November 2026.</li>
@@ -40,6 +41,7 @@ I have been lucky to have the opportunity to attend conferences in so many amazi
       <li><a style="font-weight:bold" href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-opener">Arithmetic, Geometry and Computations on K3 surfaces</a>, 14th - 18th of September 2026.</li>
     </ul>
 </li>
+
 <li><a style="font-weight:bold" href="http://emiliano.ambrosi.perso.math.cnrs.fr/CAVARETpage/Cavaretmain.html">Curves, Abelian VArieties and RElated Topics 2 (CAVARET 2)</a>, Universitat de Barcelona, 13th - 17th of July 2026.</li>
 
 <li><a style="font-weight:bold" href="https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/">Warwick Education Conference</a>, University of Warwick, 4th of June, 2026.</li>
